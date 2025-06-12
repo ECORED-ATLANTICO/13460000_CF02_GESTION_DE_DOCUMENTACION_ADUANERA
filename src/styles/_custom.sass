@@ -2,13 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 40%
+    left: 0%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 10%
+    right: 5%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 70%
+    right: 6%
 
 @keyframes float1
   0%
@@ -22,11 +27,41 @@
 .banner-principal__row .banner-principal__img
   width: 400px !important  
 
-.titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important
+.banner-principal .tarjeta
+  background-image: url('../assets/curso/portada/fondo-banner-principal-mobile.png') !important
 
-.banner-interno__titulo__icono i
-  color: $color-primario
+@media (min-width: 426px)
+  .banner-principal .tarjeta
+    background-image: url('../assets/curso/portada/fondo-banner-principal-tablet.png') !important
+    padding-right: 130px
+
+@media (min-width: 769px)
+  .banner-principal .tarjeta
+    padding-right: 0
+    overflow: hidden
+
+@media (min-width: 1025px)
+  .banner-principal .tarjeta
+    background-image: url('../assets/curso/portada/fondo-banner-principal.png') !important
+
+@media (max-width: 500px)
+  .banner-principal__info
+    padding-top: 80px !important
+    padding-bottom: 60px !important
+
+.banner-principal__row .banner-principal__img
+  width: 400px !important
+  padding: 0 !important
+  align-self: end
+
+.banner-interno__fondo 
+  background-image: url('../assets/curso/banner-interno.png') !important
+
+.banner-interno__titulo
+  &__icono i
+    color: $color-primario
+  h2
+    color: $color-primario
 
 figcaption
   font-weight: normal
