@@ -227,7 +227,35 @@
 
     Separador
 
-    
+    #t_1_4(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
+      h3 1.4	Tipos
+
+    p.mb-4.mb-lg-5 La ficha técnica de mercancías varía según el régimen aduanero (importación, exportación, entre otros) y las características de la mercancía (origen, valor y composición). Estos factores determinan los requisitos y documentos necesarios para cumplir con las normativas, facilitando el control y la clasificación arancelaria. Cada caso exige una ficha específica para garantizar el correcto despacho y legalidad del proceso.
+
+    h4.world-title.my-5 Según el régimen aduanero
+
+    p.mb-4.mb-lg-5 Dependiendo del régimen aduanero bajo el cual se declare la mercancía, el tipo de ficha técnica puede variar.
+
+    .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
+      .col-md-10
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 2.
+          span <em>Fichas técnicas según régimen aduanero</em>
+        img.mb-2(data-aos="fade-up")(src='@/assets/curso/temas/tema1/11.png', alt='Fichas técnicas según régimen aduanero')
+        figcaption <strong>Fuente</strong>: SENA, 2025
+
+    h4.world-title.my-5 Según la naturaleza de la mercancía
+
+    p.mb-4.mb-lg-5 La información requerida en una ficha técnica de mercancías según su naturaleza varía dependiendo de sus características físicas, químicas y regulatorias.
+
+    .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
+      .col-md-10
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 3.
+          span <em>Fichas técnicas según naturaleza de la mercancía</em>
+        img.mb-2(data-aos="fade-up")(src='@/assets/curso/temas/tema1/12.png', alt='Fichas técnicas según régimen aduanero')
+        figcaption <strong>Fuente</strong>: SENA, 2025
+
 </template>
 
 <script>
