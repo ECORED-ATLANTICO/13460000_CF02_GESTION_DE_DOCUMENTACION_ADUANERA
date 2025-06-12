@@ -65,3 +65,100 @@
 
 figcaption
   font-weight: normal
+
+.checklist
+  padding-left: 20px
+  width: fit-content
+
+  li
+    position: relative
+    padding: 10px 20px
+    padding-left: 0
+
+    &::before
+      content: url('../assets/curso/temas/check-icon.svg')
+      position: absolute
+      left: -20px
+
+.fullwidth-bg
+  position: relative
+  z-index: 0
+  &--1::after
+    top: 50px
+    left: -60px
+    position: absolute
+    content: url('../assets/curso/temas/tema1/bg-1.png')
+
+  &--2::after
+    top: -230px
+    left: -60px
+    position: absolute
+    content: url('../assets/curso/temas/tema1/bg-2.png')
+
+  &--3::after
+    top: 50px
+    left: -60px
+    position: absolute
+    height: 100%
+    width: 1440px
+    background: linear-gradient(180deg,rgba(255, 206, 121, 0.01) 0%, rgba(115, 150, 74, 0.05) 30%, rgba(115, 150, 74, 0.05) 70%, rgba(255, 206, 121, 0.01) 100%)
+    content: ''
+
+.z-2
+  position: relative
+  z-index: 2
+
+.documents-table
+  tr, th, td
+    border: 2px solid #3E2071
+    padding: 10px 15px
+
+  caption
+    font-weight: 500
+
+.crd_hover_txt:hover .crd_hover_txt--body 
+  transition: all .3s ease-in-out
+  transform: translateY(0)
+
+.crd_hover_txt 
+  overflow: hidden
+  border-radius: 12px
+  .crd_hover_txt--body 
+    position: absolute
+    padding: 15px 25px 30px
+    bottom: 0
+    transition: all .3s ease-in-out
+    transform: translateY(calc(100% - 50px))
+    background-color: #1D746A
+    color: #FFFFFF
+
+    h5
+      color: #FFFFFF
+
+  &:hover
+    .crd_hover_txt--body 
+      background-color: #EFFAF4
+      color: #12263F
+
+      h5
+        color: #12263F
+
+@media (min-width: 1200px) and (max-width:1400px) 
+  .crd_hover_txt .crd_hover_txt--body p 
+      font-size: 14px
+      line-height: 18px
+
+.acordion-documents
+  background-color: $color-secundario-s10
+  color: #12263F
+  &--borde
+    background-color: lighten($color-acento-contenido, 50%)
+    color: #12263F
+    border: solid 4px $color-acento-contenido
+
+  .acordion__accion__btn--a
+    background-color: $color-acento-botones
+    color: #FFFFFF
+
+  &.acordion__activo
+    background-color: #EFFAF4
