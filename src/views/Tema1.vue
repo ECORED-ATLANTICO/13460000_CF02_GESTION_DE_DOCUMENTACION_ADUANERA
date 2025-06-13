@@ -42,11 +42,12 @@
     p.mb-4.mb-lg-5 Además de ser el documento de identificación del producto en operaciones de comercio exterior, la ficha técnica cumple funciones estratégicas clave:
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
-      .col-md-10
+      .col-md-10.col-lg-12.col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
-          span <em>Etapas del comercio exterior</em>
-        img.mb-2(data-aos="fade-up")(src='@/assets/curso/temas/tema1/3.png', alt='Etapas del comercio exterior')
+          span Etapas del comercio exterior
+        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema1/3-mob.png', alt='Etapas del comercio exterior')
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema1/3.png', alt='Etapas del comercio exterior')
         figcaption <strong>Fuente</strong>: SENA, 2025
 
     .row.justify-content-center.align-items-center.z-2
@@ -146,6 +147,7 @@
 
     Separador
 
+    .fullwidth-bg.fullwidth-bg--1
     #t_1_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 1.3	Importancia
 
@@ -223,10 +225,11 @@
               li Facilita procesos de <em>recall</em> o retiro del mercado cuando es necesario.
               li Apoya la gestión de calidad en cadenas globales de suministro.
 
-    p.mb-0 Se puede concluir que la ficha técnica ya no es solo un documento descriptivo, sino una herramienta legal y operativa para competir en el comercio global. Su elaboración precisa es estratégica para evitar riesgos y optimizar oportunidades de negocio.
+    p.mt-4.mt-lg-5.mb-0 Se puede concluir que la ficha técnica ya no es solo un documento descriptivo, sino una herramienta legal y operativa para competir en el comercio global. Su elaboración precisa es estratégica para evitar riesgos y optimizar oportunidades de negocio.
 
     Separador
 
+    .fullwidth-bg.fullwidth-bg--2
     #t_1_4(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 1.4	Tipos
 
@@ -237,11 +240,12 @@
     p.mb-4.mb-lg-5 Dependiendo del régimen aduanero bajo el cual se declare la mercancía, el tipo de ficha técnica puede variar.
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
-      .col-md-10
+      .col-md-10.col-lg-12.col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
-          span <em>Fichas técnicas según régimen aduanero</em>
-        img.mb-2(data-aos="fade-up")(src='@/assets/curso/temas/tema1/11.png', alt='Fichas técnicas según régimen aduanero')
+          span Fichas técnicas según régimen aduanero
+        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema1/11-mob.png', alt='Fichas técnicas según régimen aduanero')
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema1/11.png', alt='Fichas técnicas según régimen aduanero')
         figcaption <strong>Fuente</strong>: SENA, 2025
 
     h4.world-title.my-5 Según la naturaleza de la mercancía
@@ -249,12 +253,122 @@
     p.mb-4.mb-lg-5 La información requerida en una ficha técnica de mercancías según su naturaleza varía dependiendo de sus características físicas, químicas y regulatorias.
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
-      .col-md-10
+      .col-md-10.col-lg-12.col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 3.
-          span <em>Fichas técnicas según naturaleza de la mercancía</em>
-        img.mb-2(data-aos="fade-up")(src='@/assets/curso/temas/tema1/12.png', alt='Fichas técnicas según régimen aduanero')
+          span Fichas técnicas según naturaleza de la mercancía
+        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema1/12-mob.png', alt='Fichas técnicas según régimen aduanero')
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema1/12.png', alt='Fichas técnicas según régimen aduanero')
         figcaption <strong>Fuente</strong>: SENA, 2025
+
+    .tabla-d.color-acento-contenido.mb-2
+      .titulo-sexto.color-acento-contenido.mb-4
+        h5 Tabla 2. 
+        span Ejemplo de ficha técnica
+
+      table.documents-table
+        caption <strong>Fuente</strong>. Tomado de Internacionalmente, 2025
+        thead
+          tr(style="background: #9FA3FF; color: #fff;")
+            th(colspan="3") Presentación comercial
+        tbody
+          tr
+            td(colspan="3") Saco de polipropileno laminado y bolsa interior de polietileno por 25 kg neto.
+        thead
+          tr(style="background: #9FA3FF; color: #fff;")
+            th(colspan="3") Condiciones de almacenamiento
+        tbody
+          tr
+            td(colspan="3") Almacenar en un lugar fresco y seco a temperaturas inferiores a 30 °C y humedad relativa por debajo de 65 %, alejado de la luz directa del sol, de focos de contaminación y de humedad.
+        thead
+          tr(style="background: #9FA3FF; color: #fff;")
+            th(colspan="3") Vida útil
+        tbody
+          tr
+            td(colspan="3") 12 meses a las condiciones de almacenamiento especificadas, en su empaque original.
+        thead
+          tr(style="background: #9FA3FF; color: #fff;")
+            th(colspan="3") Instrucciones de manejo
+        tbody
+          tr
+            td(colspan="3") Después de abierto consumir en el menor tiempo posible y proteger de ambientes húmedos. En caso de derrames, limpiar inmediatamente desechando el material.
+        thead
+          tr(style="background: #9FA3FF; color: #fff;")
+            th(colspan="3") Declaraciones de alérgenos
+        tbody
+          tr
+            td(style="width: 10%;") No.
+            td(style="width: 70%;") Alérgeno (L. Pub. 108-282/2004, Título II (USA, FALCPA); Reglamento (UE) N°1169/2011)
+            td(style="width: 20%;") Código
+          tr(style="background: #F4F5FF;")
+            td(style="width: 10%;") 1
+            td(style="width: 70%; text-align: left") Apio y productos elaborados con él.
+            td(style="width: 20%;") ?
+          tr
+            td(style="width: 10%;") 2
+            td(style="width: 70%; text-align: left") Cereales que contienen gluten (trigo, centeno, cebada, avena, kamut o sus semillas híbridas) y productos derivados.
+            td(style="width: 20%;") ?
+          tr(style="background: #F4F5FF;")
+            td(style="width: 10%;") 3
+            td(style="width: 70%; text-align: left") Crustáceos y productos elaborados con ellos.
+            td(style="width: 20%;") ---
+          tr
+            td(style="width: 10%;") 4
+            td(style="width: 70%; text-align: left") Huevos y productos elaborados con ellos.
+            td(style="width: 20%;") ---
+          tr(style="background: #F4F5FF;")
+            td(style="width: 10%;") 5
+            td(style="width: 70%; text-align: left") Pescado y productos elaborados con él, excepto la gelatina de pescado utilizada como soporte para vitaminas.
+            td(style="width: 20%;") ---
+          tr
+            td(style="width: 10%;") 6
+            td(style="width: 70%; text-align: left") Cacahuetes (maní) y productos elaborados con ellos.
+            td(style="width: 20%;") ?
+          tr(style="background: #F4F5FF;")
+            td(style="width: 10%;") 7
+            td(style="width: 70%; text-align: left") Soya y productos elaborados con ella.
+            td(style="width: 20%;") ?
+          tr
+            td(style="width: 10%;") 8
+            td(style="width: 70%; text-align: left") Leche y sus derivados (incluida la lactosa).
+            td(style="width: 20%;") ?
+          tr(style="background: #F4F5FF;")
+            td(style="width: 10%;") 9
+            td(style="width: 70%; text-align: left") Frutos de cáscara (almendras, avellanas, nueces, anacardos, pacanas, nueces de Brasil, pistachos, macadamia).
+            td(style="width: 20%;") ---
+          tr
+            td(style="width: 10%;") 10
+            td(style="width: 70%; text-align: left") Mostaza y productos elaborados con ella.
+            td(style="width: 20%;") ---
+          tr(style="background: #F4F5FF;")
+            td(style="width: 10%;") 11
+            td(style="width: 70%; text-align: left") Granos de sésamo (ajonjolí) y productos elaborados con ellos.
+            td(style="width: 20%;") ---
+          tr
+            td(style="width: 10%;") 12
+            td(style="width: 70%; text-align: left") Dióxido de azufre y sulfitos en concentraciones superiores a 10 mg/kg o 10 mg/L.
+            td(style="width: 20%;") ?
+          tr(style="background: #F4F5FF;")
+            td(style="width: 10%;") 13
+            td(style="width: 70%; text-align: left") Altramuces y productos elaborados con ellos.
+            td(style="width: 20%;") ---
+          tr
+            td(style="width: 10%;") 14
+            td(style="width: 70%; text-align: left") Moluscos y productos elaborados con ellos.
+            td(style="width: 20%;") ?
+          tr(style="background: #F4F5FF;")
+            td(style="width: 10%;") 15
+            td(style="width: 70%; text-align: left") Otros alérgenos no contemplados en normativa pero de alto impacto clínico.
+            td(style="width: 20%;")
+          tr
+            td(colspan="3")(style="text-align: left") (+) +++ Presencia, --- Ausencia, ? Puede contener trazas
+        thead
+          tr(style="background: #9FA3FF; color: #fff;")
+            th(colspan="3") Observación
+        tbody
+          tr
+            td(colspan="3")(style="text-align: left") Para los productos que se elaboran en nuestras instalaciones, existe la posibilidad de que estos u otros alérgenos se presenten debido a prácticas comunes de manufactura. Por tal motivo, se deben validar las fichas técnicas y/o tablas de ingredientes, además de revisar y validar los alérgenos en la etiqueta del producto final.
+        
 
 </template>
 
