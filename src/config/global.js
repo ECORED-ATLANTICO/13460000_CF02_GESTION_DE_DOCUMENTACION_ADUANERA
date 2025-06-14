@@ -36,13 +36,28 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Fichas técnicas de mercancías',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Concepto',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Elementos',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Importancia',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Tipos',
+            hash: 't_1_4',
           },
         ],
       },
@@ -50,14 +65,69 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Gestión de información',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Metodologías de recopilación de información',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Técnicas de diligenciamiento de registros',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo:
+              'Herramientas tecnológicas de diligenciamiento de registros',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Principios de manejo confidencial de información',
+            hash: 't_2_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Sistemas de información aduanero',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Concepto',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Características',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Tipos',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Aplicaciones y funcionalidades',
+            hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'Técnicas de uso',
+            hash: 't_3_5',
+          },
+          {
+            numero: '3.6',
+            titulo: 'Aseguramiento de la información',
+            hash: 't_3_6',
+          },
+        ],
       },
     ],
     subMenu: [
