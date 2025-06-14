@@ -33,6 +33,7 @@
 
     Separador
 
+    .fullwidth-bg.fullwidth-bg--1
     #t_2_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 2.1	Metodologías de recopilación de información
 
@@ -97,13 +98,60 @@
     #t_2_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 2.2 Técnicas de diligenciamiento de registros
 
-    .row.justify-content-center.align-items-center.z-2
-      .col-lg-3
+    .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
+      .col-sm-8.col-md-6.col-lg-3
         figure
-          img(data-aos="fade-up")(src="@/assets/curso/temas/tema2/5.png", alt="Imagen decorativa")
+          img.mb-4.mb-lg-0(data-aos="fade-up")(src="@/assets/curso/temas/tema2/5.png", alt="Imagen decorativa")
       .col-lg-9
         p El diligenciamiento de registros no se trata simplemente de llenar casillas vacías; es un proceso que requiere estrategia y cuidado. Implica el uso de tecnologías avanzadas, normas claras y buenas prácticas para convertir los datos en recursos confiables y útiles. Para lograrlo, es fundamental contar con herramientas de validación, invertir en la formación constante del equipo y fomentar una cultura organizacional que valore la calidad de la información.
-        p Entre las técnicas más utilizadas para el diligenciamiento de registros encontramos las siguientes:
+        p.mb-0 Entre las técnicas más utilizadas para el diligenciamiento de registros encontramos las siguientes:
+
+    .fullwidth-bg.fullwidth-bg--4
+    .row.justify-content-center.align-items-center.factores-slider.z-2
+      .col-sm-8.col-lg-4.d-none.d-xl-block
+        figure
+          img(src='@/assets/curso/temas/tema2/6.png', alt='Imagen decorativa')
+
+      .col-sm-8.col-md-10.col-xl-8.mb-3.mb-lg-0
+        SlyderF(columnas="col-lg-6")
+          .tarjeta.p-4.card-decoration.rounded-4.mx-2.my-3
+            .row.justify-content-center.mb-3
+              .col-5
+                img.mb-2(src='@/assets/curso/temas/tema2/7.svg' alt='Icon decarativo')
+            h5.bg-acento-contenido.text-center.p-2 Sistemas de gestión de bases de datos
+            ul.checklist
+              li Bases de datos relacionales.
+              li Bases de datos no relacionales.
+
+          .tarjeta.p-4.card-decoration.rounded-4.mx-2.my-3
+            .row.justify-content-center.mb-3
+              .col-5
+                img.mb-2(src='@/assets/curso/temas/tema2/8.svg' alt='Icon decarativo')
+            h5.bg-acento-contenido.text-center.p-2 Plataformas de formularios digitales
+            ul.checklist
+              li  Google Forms.
+              li Microsoft Forms.
+              li Jot Forms.
+
+          .tarjeta.p-4.card-decoration.rounded-4.mx-2.my-3
+            .row.justify-content-center.mb-3
+              .col-5
+                img.mb-2(src='@/assets/curso/temas/tema2/9.svg' alt='Icon decarativo')
+            h5.bg-acento-contenido.text-center.p-2 <em>Software</em> ERP y CRM
+            ul.checklist
+              li  SAP.
+              li Salesforce.
+              li Odoo.
+
+          .tarjeta.p-4.card-decoration.rounded-4.mx-2.my-3
+            .row.justify-content-center.mb-3
+              .col-5
+                img.mb-2(src='@/assets/curso/temas/tema2/10.svg' alt='Icon decarativo')
+            h5.bg-acento-contenido.text-center.p-2 Aplicaciones móviles de recolección
+            ul.checklist
+              li KoboToolbox.
+              li Fulcrum.
+
 
     Separador
 
