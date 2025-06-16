@@ -177,22 +177,134 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema: 'Fichas técnicas',
+      referencia:
+        'Camex. (2023). Documentación de Comercio Exterior - Sesión 8 - Ficha Técnica. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=dzEgdWvdK4E',
+    },
+    {
+      tema: 'Principios de manejo confidencial de información',
+      referencia:
+        'Legintech. (2022). Principios para el tratamiento de datos personales. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=4KaLVfgjIl4',
+    },
+    {
+      tema: 'Sistemas de información aduanero',
+      referencia:
+        'DIAN. (2023). Proceso de carga en operaciones aduaneras de importación. [Video]. YouTube',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=uzGT9UuT9so',
+    },
+    {
+      tema: 'VUCE',
+      referencia: 'VUCE Colombia. (2017). VUCE. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=8cQZ9rv1VAk',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Base de datos',
+      significado:
+        'es una colección organizada de información digital, generalmente almacenada en un sistema informático, y diseñada para facilitar el acceso, la gestión y la actualización de los datos.',
+    },
+    {
+      termino: 'Clasificación arancelaria',
+      significado:
+        'consiste en la asignación de un código numérico a las mercancías que se denomina subpartida arancelaria, teniendo como presupuesto fundamental el conocimiento de sus características físicas, químicas y técnicas, entre otras, en el marco de la Nomenclatura Arancelaria vigente.',
+    },
+    {
+      termino: 'DIAN',
+      significado:
+        'la Dirección de Impuestos y Aduanas Nacionales (DIAN) es una entidad gubernamental que se encarga de gestionar los impuestos y el comercio exterior en Colombia.',
+    },
+    {
+      termino: 'DUA',
+      significado:
+        'el Documento Único Administrativo (DUA) es un formulario obligatorio que se utiliza para realizar operaciones de importación y exportación de mercancías.',
+    },
+    {
+      termino: 'Ficha técnica',
+      significado:
+        'es un documento detallado que describe las características físicas, técnicas, químicas y/o comerciales de un producto, necesario para su correcta clasificación arancelaria, valoración aduanera y verificación del cumplimiento de requisitos legales en operaciones de importación y exportación.',
+    },
+    {
+      termino: 'Interoperabilidad',
+      significado:
+        'es la capacidad de que diferentes sistemas puedan intercambiar información y funcionar de manera conjunta. Se basa en estándares, protocolos y tecnologías que permiten que los datos fluyan entre sistemas con poca intervención humana.',
+    },
+    {
+      termino: 'Minería de datos',
+      significado:
+        'es una técnica asistida por computadora que se utiliza en los análisis para procesar y explorar grandes conjuntos de datos.',
+    },
+    {
+      termino: 'SIA',
+      significado:
+        'un Sistema de Información Aduanero (SIA) es una plataforma tecnológica que facilita la gestión y automatización de procesos clave en el comercio exterior.',
+    },
+    {
+      termino: 'SIIS',
+      significado:
+        'el Sistema de Inspección Simultánea (SIIS) es un módulo informático que permite agendar inspecciones de mercancías en los terminales portuarios y aeroportuarios de Colombia.',
+    },
+    {
+      termino: 'SYGA',
+      significado:
+        'el Sistema de Información y Gestión Aduanera (SYGA) es una herramienta tecnológica desarrollada por la Dirección de Impuestos y Aduanas Nacionales (DIAN) de Colombia con el propósito de modernizar y mejorar la eficiencia en los procesos de control aduanero.',
+    },
+    {
+      termino: 'VUCE',
+      significado:
+        'la Ventanilla Única de Comercio Exterior –VUCE– es la principal herramienta de facilitación del comercio del País, a través de la cual se canalizan trámites de comercio exterior.',
+    },
+    {
+      termino: '<em>Webscraping</em>',
+      significado:
+        'es una técnica que permite extraer datos de sitios web de manera automática.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Alexia Calderón. (2025). ¿Qué es una ficha técnica en comercio internacional?',
+      link:
+        'https://internacionalmente.com/ficha-tecnica-comercio-internacional/',
+    },
+    {
+      referencia:
+        'Appolo. (2023). ¿Cómo el sistema informático aduanero colombiano optimiza la eficiencia en la gestión aduanera?',
+      link:
+        'https://appolo.com.co/como-funciona-sistema-informatico-aduanero-colombia/',
+    },
+    {
+      referencia:
+        'DG Tecnologia Acessível. (2022). ¿Qué es la Gestión de la Información?',
+      link: 'https://dgcloud.com.br/es/que-es-la-gestion-de-la-informacion/',
+    },
+    {
+      referencia:
+        'Dirección de Impuestos y Aduanas Nacionales (DIAN). (2017). Regulación Aduanera en Colombia.',
+      link:
+        'https://www.dian.gov.co/aduanas/Documents/Nueva%20Regulaci%C3%B3n%20Aduanera%20en%20Colombia.pdf',
+    },
+    {
+      referencia:
+        'Innevo. (2023). Cómo Cuidar la Confidencialidad de la Información en tu Empresa.',
+      link: 'https://innevo.com/blog/confidencialidad-de-la-informacion',
+    },
+    {
+      referencia:
+        'Servicio Nacional de Aprendizaje (SENA). (2021). Zajuna Semilla. 134600_1_Virtual-Operaciones de Comercio Exterior.',
+      link: 'https://zajuna.sena.edu.co/zajuna/course/view.php?id=32448',
+    },
+    {
+      referencia:
+        'Universitat Politecnica de Valencia. (2022). Introducción a la gestión de la información y del conocimiento en la empresa.',
+      link:
+        'https://riunet.upv.es/bitstreams/e0125038-9086-42d8-954e-4401b3f5637e/download',
     },
   ],
   creditos: [
@@ -200,14 +312,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -215,9 +328,19 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Yezid Arturo Choperena Guerrero',
+          cargo: 'Experto temático',
+          centro: 'Centro de Comercio y Servicios -Regional Atlántico',
+        },
+        {
+          nombre: 'Heydy Cristina Gonzalez Garcia',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Jair Coll Gallardo',
+          cargo: 'Evaluador instruccional',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -225,19 +348,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Luis Gabriel Gabriel Urueta',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Fabio Fonseca Arguelles',
+          cargo: 'Desarrollador <i>full stack junior</i>',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -245,14 +368,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Maria Fernanda Morales Angulo',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adie Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
