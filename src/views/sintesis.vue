@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .row.justify-content-center.align-items-center.mb-4
-      p.mb-0 Este componente desarrolla conocimientos fundamentales sobre la gestión documental aduanera, cubriendo temas como la identificación y elaboración de las fichas técnicas de las mercancías, la gestión de la información necesaria y los sistemas de información aduanera. Proporciona las bases para comprender el manejo eficiente de la documentación en operaciones de comercio exterior.
+      p.mb-0 A continuación, se describe una visión general sobre los aspectos clave de la gestión documental en comercio exterior. Comienza con generalidades de las fichas técnicas utilizadas para la identificación de las mercancías y los tipos existentes. Además, se explora la todo lo referente a la gestión de información, desde su recopilación hasta el manejo de su confidencialidad, y el diligenciamiento de registros. Finalmente, se abordan los sistemas de información aduanera, describiendo sus características, los tipos existentes, técnicas de uso y las técnicas de aseguramiento de la información.
 
     .row.justify-content-center.align-items-center
       .mb-5.bgs.p-4.brad

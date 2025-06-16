@@ -17,7 +17,7 @@
     Separador
 
     #t_1_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 1.1	Diferencias entre frutas y verduras
+      h3 1.1	Concepto
 
     .row.justify-content-center.align-items-center
       .col-8.col-sm-6.col-lg-3
