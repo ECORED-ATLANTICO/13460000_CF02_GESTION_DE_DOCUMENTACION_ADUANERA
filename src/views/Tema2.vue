@@ -37,7 +37,7 @@
     #t_2_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 2.1	Metodologías de recopilación de información
 
-    p.mb-4.mb-lg-5 La recopilación de información consiste en obtener, filtrar y estructurar datos provenientes de diferentes fuentes, con el objetivo de utilizarlos para análisis, investigaciones o toma de decisiones específicas.
+    p.mb-4.mb-lg-5.z-2 La recopilación de información consiste en obtener, filtrar y estructurar datos provenientes de diferentes fuentes, con el objetivo de utilizarlos para análisis, investigaciones o toma de decisiones específicas.
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10.col-lg-12.col-xl-10

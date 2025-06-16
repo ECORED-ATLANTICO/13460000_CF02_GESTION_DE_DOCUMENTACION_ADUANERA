@@ -65,7 +65,7 @@
     #t_3_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 3.3 Tipos
     
-    p.mb-4.mb-lg-5 Los sistemas de información aduanero pueden clasificarse según su alcance, función y usuarios principales. A continuación, se presentan los principales tipos:
+    p.mb-4.mb-lg-5.z-2 Los sistemas de información aduanero pueden clasificarse según su alcance, función y usuarios principales. A continuación, se presentan los principales tipos:
 
     .row.justify-content-center.align-items-center.mb-3.mb-lg-4.z-2
       .col-xl-10
@@ -238,7 +238,7 @@
     #t_3_5(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 3.5 Técnica de uso
 
-    p.mb-4.mb-lg-5 Los sistemas de información aduaneros actuales utilizan métodos avanzados para mejorar la gestión de procesos, reforzar la seguridad y aumentar la eficiencia en el comercio exterior. A continuación, se destacan las principales técnicas empleadas:
+    p.mb-4.mb-lg-5.z-2 Los sistemas de información aduaneros actuales utilizan métodos avanzados para mejorar la gestión de procesos, reforzar la seguridad y aumentar la eficiencia en el comercio exterior. A continuación, se destacan las principales técnicas empleadas:
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10.col-lg-12.col-xl-10

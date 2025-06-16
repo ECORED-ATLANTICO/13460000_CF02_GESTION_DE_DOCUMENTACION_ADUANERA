@@ -151,7 +151,7 @@
     #t_1_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 1.3	Importancia
 
-    p.mb-4.mb-lg-5 Según Alexia Calderón (2025), en el ámbito del comercio internacional, la ficha técnica se convierte en un documento fundamental, ya que garantiza el cumplimiento de las normas, certificaciones y requisitos legales exigidos en cada mercado. Además, proporciona a importadores y exportadores una comprensión detallada de las propiedades y especificaciones del producto, lo que agiliza los procesos comerciales y previene conflictos o interpretaciones erróneas.
+    p.mb-4.mb-lg-5.z-2 Según Alexia Calderón (2025), en el ámbito del comercio internacional, la ficha técnica se convierte en un documento fundamental, ya que garantiza el cumplimiento de las normas, certificaciones y requisitos legales exigidos en cada mercado. Además, proporciona a importadores y exportadores una comprensión detallada de las propiedades y especificaciones del producto, lo que agiliza los procesos comerciales y previene conflictos o interpretaciones erróneas.
 
     .row.justify-content-center.align-items-center.z-2
       .col-sm-7.col-lg-6.col-xl-4.mb-4
