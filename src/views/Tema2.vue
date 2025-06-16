@@ -184,7 +184,7 @@
         p.mb-lg-4 La confidencialidad en el manejo de la información es esencial cuando se trata de proteger datos personales y corporativos. Su propósito es asegurar que la información sensible solo pueda ser vista o utilizada por personas y sistemas con la autorización adecuada. Es clave en distintos ámbitos, desde el cumplimiento de normativas legales hasta la seguridad dentro de las organizaciones y el uso de tecnología para resguardar datos. Mantener la confidencialidad no solo protege la privacidad, sino que también fortalece la confianza en el manejo responsable de la información.
       .col-lg-4
         figure
-          img(data-aos="fade-up")(src="@/assets/curso/temas/tema2/12.png", alt="Imagen decorativa")
+          img(data-aos="fade-down")(src="@/assets/curso/temas/tema2/12.png", alt="Imagen decorativa")
 
 
 </template>

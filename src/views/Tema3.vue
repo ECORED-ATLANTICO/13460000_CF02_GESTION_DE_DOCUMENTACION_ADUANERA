@@ -14,6 +14,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Los Sistemas de Información Aduaneros (SIA) son herramientas tecnológicas creadas para supervisar, organizar y mejorar los procesos de comercio exterior. Su función es agilizar el movimiento de mercancías, garantizar el cumplimiento de las normativas y reforzar la seguridad en las operaciones aduaneras.
 
+    .fullwidth-bg.fullwidth-bg--1
     #t_3_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 3.1	Concepto
 
@@ -45,6 +46,7 @@
 
     Separador
 
+    .fullwidth-bg.fullwidth-bg--2
     #t_3_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 3.2 Características
 
@@ -59,6 +61,7 @@
         img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema3/3.png', alt='Características de los sistemas de información aduanero')
         figcaption <strong>Fuente</strong>: SENA, 2025
 
+    .fullwidth-bg.fullwidth-bg--1
     #t_3_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 3.3 Tipos
     
@@ -231,6 +234,7 @@
 
     Separador
 
+    .fullwidth-bg.fullwidth-bg--1
     #t_3_5(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 3.5 Técnica de uso
 
@@ -245,11 +249,66 @@
         img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema3/14.png', alt='Características de los sistemas de información aduanero')
         figcaption <strong>Fuente</strong>: tomado y ad
 
+    .fullwidth-bg.fullwidth-bg--2
+    #t_3_6(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
+        h3 3.6 Aseguramiento de la información
 
+    .row.justify-content-center.align-items-center.z-2.p-4.bg-mc.mb-4.mb-lg-5
+      .col-lg-7
+        p Los sistemas de información aduaneros procesan información crítica, como declaraciones, historiales comerciales y datos tributarios, lo que exige la implementación de medidas sólidas de seguridad y cumplimiento normativo. A continuación, se presentan las principales estrategias para asegurar la protección, confiabilidad y accesibilidad de la información. 
+      .col-lg-3
+        figure
+          img(data-aos="fade-up")(src="@/assets/curso/temas/tema3/15.png", alt="Imagen decorativa")
 
+    .row.align-items-center.z-2.mb-4
+      .col-sm-7.col-lg-6.col-xl-4.mb-4
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/tema3/16.png", alt="Imagen decorativa")
+          .crd_hover_txt--body.px-3
+            h5.text-center Medidas técnicas
+            ul.checklist
+              li Cifrado de datos.
+              li Control de accesos.
+              li Protección perimetral.
+              li Respaldo y recuperación.
 
+      .col-sm-7.col-lg-6.col-xl-4.mb-4
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/tema3/17.png", alt="Imagen decorativa")
+          .crd_hover_txt--body.px-3
+            h5.text-center Medidas administrativas
+            ul.checklist
+              li Políticas de seguridad.
+              li Capacitación continua.
+              li Auditorías periódicas.
 
+      .col-sm-7.col-lg-6.col-xl-4.mb-4
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/tema3/18.png", alt="Imagen decorativa")
+          .crd_hover_txt--body.px-3.color-acento-contenido
+            h5.text-center Cumplimiento normativo
+            ul.checklist
+              li Estándares internacionales.
+              li Regulaciones locales.
 
+    .row.justify-content-center.align-items-center
+      .col-lg-6.mb-4.mb-lg-0
+        p Para el caso de Colombia, el Sistema de Gestión Aduanera (SYGA) de la DIAN implementa:
+        .rounded-4.py-3.px-4.bg-secundario-s5
+          ul.checklist.mb-0
+            li Cifrado AES-256 en todas las transacciones.
+            li Autenticación biométrica para funcionarios.
+            li <em>Blockchain</em> para certificados de origen inviolables.
+            li Monitoreo 24/7 desde un SOC <em>(Security Operations Center)</em>.
+      .col-lg-6
+        figure
+          img(data-aos="fade-dowm")(src="@/assets/curso/temas/tema3/19.png", alt="Imagen decorativa")
 </template>
 
 <script>
