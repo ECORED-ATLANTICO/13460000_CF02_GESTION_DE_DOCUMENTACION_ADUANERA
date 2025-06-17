@@ -17,7 +17,7 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-lg-4
         figure
-          img(data-aos="fade-up")(src="@/assets/curso/temas/tema2/2.png", alt="Imagen decorativa")
+          img.mb-4.mb-lg-0(data-aos="fade-up")(src="@/assets/curso/temas/tema2/2.png", alt="Imagen decorativa")
       .col-lg-6
         p maginemos que la información es como un tesoro. Pero, ¿de qué sirve tener un montón de tesoros si no sabes cuáles son valiosos, cómo encontrarlos o cómo usarlos? Ahí es donde entra la gestión de la información, que es como tener un mapa y una brújula para navegar por ese tesoro.
         p.mb-0 Así, la gestión de la información se convierte en un activo valioso para las empresas, una herramienta que permite tomar decisiones acertadas, anticiparse a los cambios y aprovechar las oportunidades. No es solo un medio para alcanzar el conocimiento, sino un camino en sí mismo hacia el éxito.
@@ -46,7 +46,7 @@
           span Características principales de la recopilación de información.
         img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema2/4-mob.png', alt='Fichas técnicas según régimen aduanero')
         img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema2/4.png', alt='Fichas técnicas según régimen aduanero')
-        figcaption <strong>Fuente</strong>. tomado y adaptad
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
     p.mb-4.mb-lg-5 A continuación, se presentan las principales metodologías utilizadas en la recopilación de información:
 
@@ -57,7 +57,7 @@
       
       .tabla-d.color-acento-contenido.mb-2
         table.documents-table
-          caption <strong>Fuente</strong>. Sena, 2025
+          caption <strong>Fuente</strong>. Tomado de Internacionalmente, 2025
           thead
             tr(style="background: #9FA3FF; color: #fff;")
               th(style="width: 25%;") Metodología
@@ -89,7 +89,7 @@
               td(style="width: 50%;") Técnica para extraer información automatizada de sitios web mediante bots o scripts, convirtiendo datos no estructurados en estructurados.
               td(style="width: 25%;") Entrevista grupal
             tr
-              td(style="width: 25%;") Minería de datos
+              td(style="width: 25%;") Sensores y IOT
               td(style="width: 50%;") Es la captura automática de datos mediante dispositivos físicos conectados a internet (sensores, wearables, cámaras inteligentes), que transmiten información en tiempo real.
               td(style="width: 25%;") Captura automática de datos mediante dispositivos conectados.
 
@@ -105,6 +105,25 @@
       .col-lg-9
         p El diligenciamiento de registros no se trata simplemente de llenar casillas vacías; es un proceso que requiere estrategia y cuidado. Implica el uso de tecnologías avanzadas, normas claras y buenas prácticas para convertir los datos en recursos confiables y útiles. Para lograrlo, es fundamental contar con herramientas de validación, invertir en la formación constante del equipo y fomentar una cultura organizacional que valore la calidad de la información.
         p.mb-0 Entre las técnicas más utilizadas para el diligenciamiento de registros encontramos las siguientes:
+
+    .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
+      .col-md-10.col-lg-12.col-xl-10
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 6.
+          span Técnicas de diligenciamiento de registros
+        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema2/14-mob.png', alt='Fichas técnicas según régimen aduanero')
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema2/14.png', alt='Fichas técnicas según régimen aduanero')
+        figcaption <strong>Fuente</strong>. SENA, 2025
+
+    p Se puede concluir que el diligenciamiento eficiente de registros no es solo cuestión de técnica, sino de integración con las mejores prácticas de la organización. Todo depende del contexto: en áreas como salud o finanzas, donde los datos son críticos, se exige un nivel de rigor más alto. Al final, el objetivo principal es siempre el mismo: garantizar información precisa, consistente y útil para la toma de decisiones.
+
+    Separador
+
+    #t_2_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
+      h3 2.3  Herramientas tecnológicas de diligenciamiento de registros
+
+    p Registrar información de forma eficiente va de la mano con el uso de herramientas tecnológicas que simplifican y mejoran cada etapa del proceso. Estas soluciones ayudan no solo a capturar la información de manera rápida y precisa, sino también a almacenarla de forma segura y gestionarla para que esté siempre disponible y organizada. La tecnología, bien aplicada, es clave para transformar datos en recursos útiles y confiables.
+    p.mb-4.mb-lg-5 A continuación, se relacionan las principales herramientas tecnológicas para el diligenciamiento de registros:
 
     .fullwidth-bg.fullwidth-bg--4
     .row.justify-content-center.align-items-center.factores-slider.z-2
@@ -173,7 +192,7 @@
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10.col-lg-12.col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 6.
+          h5 Figura 7.
           span  Principios para el manejo confidencial de información.
         img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema2/4-mob.png', alt='Fichas técnicas según régimen aduanero')
         img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema2/4.png', alt='Fichas técnicas según régimen aduanero')

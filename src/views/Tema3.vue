@@ -55,7 +55,7 @@
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10.col-lg-12.col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 7.
+          h5 Figura 8.
           span Características de los sistemas de información aduanero
         img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema3/3-mob.png', alt='Características de los sistemas de información aduanero')
         img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema3/3.png', alt='Características de los sistemas de información aduanero')
@@ -210,23 +210,23 @@
     h4.world-title.my-5 VUCE
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
-      .col-lg-9
+      .col-lg-9.mb-4.mb-lg-0
         p.mb-4 De acuerdo con su portal, la Ventanilla Única de Comercio Exterior –VUCE– es la principal herramienta de Facilitación del Comercio del País, a través de la cual se canalizan trámites de comercio exterior de 62.000 usuarios vinculados a 20 entidades del Estado, coordinadas por el Ministerio de Comercio, Industria y Turismo, con el fin de intercambiar información, eliminar redundancia de procedimientos, implementar controles eficientes y promover actuaciones administrativas transparente.
         .row.align-items-center
-          .col-lg-3
+          .col-lg-3.d-none.d-xl-block
             figure
               img(data-aos="fade-in")(src='@/assets/curso/temas/tema3/11.png' alt='Icon decarativo')
-          .col-lg-9
+          .col-xl-9
             .p-4.bg-acento-contenido-ac5
               p.mb-0 Este sistema incorpora la firma digital para asegurar la protección tecnológica y legal de los trámites. Además, implementa el pago electrónico en línea, permitiendo agilizar las gestiones económicas ante las entidades correspondientes. El sistema VUCE ofrece a los usuarios las herramientas necesarias para realizar procesos electrónicos de exportación e importación con total confianza. Garantiza rapidez, precisión, disponibilidad y seguridad en cada trámite, asegurando la integridad de la información mediante el uso de firma electrónica.
-      .col-lg-3
+      .col-6.col-lg-3
         figure
           img(data-aos="fade-in")(src='@/assets/curso/temas/tema3/12.png' alt='Icon decarativo')
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10.col-lg-12.col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 8.
+          h5 Figura 9.
           span Principales trámites y servicios de la VUCE.
         img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema3/13-mob.png', alt='Características de los sistemas de información aduanero')
         img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema3/13.png', alt='Características de los sistemas de información aduanero')
@@ -243,11 +243,11 @@
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10.col-lg-12.col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 9.
+          h5 Figura 10.
           span Técnicas de uso.
         img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema3/14-mob.png', alt='Características de los sistemas de información aduanero')
         img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema3/14.png', alt='Características de los sistemas de información aduanero')
-        figcaption <strong>Fuente</strong>: tomado y ad
+        figcaption <strong>Fuente</strong>: SENA, 2025
 
     .fullwidth-bg.fullwidth-bg--2
     #t_3_6(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
@@ -260,7 +260,7 @@
         figure
           img(data-aos="fade-up")(src="@/assets/curso/temas/tema3/15.png", alt="Imagen decorativa")
 
-    .row.align-items-center.z-2.mb-4
+    .row.align-items-center.justify-content-center.z-2.mb-4
       .col-sm-7.col-lg-6.col-xl-4.mb-4
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img

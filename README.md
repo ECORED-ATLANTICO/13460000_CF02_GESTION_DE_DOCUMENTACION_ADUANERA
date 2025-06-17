@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-atlantico.github.io/ECORED-BASE-REPO/](https://ecored-atlantico.github.io/ECORED-BASE-REPO/)
+[https://ecored-atlantico.github.io/13460000_CF02_GESTION_DE_DOCUMENTACION_ADUANERA/](https://ecored-atlantico.github.io/13460000_CF02_GESTION_DE_DOCUMENTACION_ADUANERA/#/)
 
 #
 
