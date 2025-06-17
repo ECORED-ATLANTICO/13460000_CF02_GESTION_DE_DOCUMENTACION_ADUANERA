@@ -16,10 +16,11 @@
 
     Separador
 
+    .fullwidth-bg.fullwidth-bg--1
     #t_1_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 1.1	Concepto
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.z-2
       .col-8.col-sm-6.col-lg-3
         figure
           img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema1/2.png', alt='Imagen decorativa')
@@ -35,11 +36,12 @@
 
     Separador
 
+    .fullwidth-bg.fullwidth-bg--2
     #t_1_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 1.2	Elementos
 
-    p La ficha técnica de mercancías, conforme a la Dirección de Impuestos y Aduanas Nacionales (DIAN) de Colombia, es un documento detallado que describe las características físicas, técnicas, químicas y/o comerciales de un producto, necesario para su correcta clasificación arancelaria, valoración aduanera y verificación del cumplimiento de requisitos legales en operaciones de importación y exportación.
-    p.mb-4.mb-lg-5 Además de ser el documento de identificación del producto en operaciones de comercio exterior, la ficha técnica cumple funciones estratégicas clave:
+    p.z-2 La ficha técnica de mercancías, conforme a la Dirección de Impuestos y Aduanas Nacionales (DIAN) de Colombia, es un documento detallado que describe las características físicas, técnicas, químicas y/o comerciales de un producto, necesario para su correcta clasificación arancelaria, valoración aduanera y verificación del cumplimiento de requisitos legales en operaciones de importación y exportación.
+    p.mb-4.mb-lg-5.z-2 Además de ser el documento de identificación del producto en operaciones de comercio exterior, la ficha técnica cumple funciones estratégicas clave:
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10.col-lg-12.col-xl-10
