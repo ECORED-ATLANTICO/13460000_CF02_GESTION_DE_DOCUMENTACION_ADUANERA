@@ -7,7 +7,7 @@
         span 1
       h1 Comercio exterior
     
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-4.mb-lg-5
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-4.mb-lg-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/1.jpg')})`}"
       )
@@ -48,8 +48,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Etapas del comercio exterior
-        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema1/3-mob.png', alt='Etapas del comercio exterior')
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema1/3.png', alt='Etapas del comercio exterior')
+        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema1/3-mob.png', alt='En la figura 1 se presentan los elementos claves de las fichas técnicas de mercancías.')
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema1/3.png', alt='En la figura 1 se presentan los elementos claves de las fichas técnicas de mercancías.')
         figcaption <strong>Fuente</strong>: SENA, 2025
 
     .row.justify-content-center.align-items-center.z-2
@@ -156,7 +156,7 @@
     p.mb-4.mb-lg-5.z-2 Según Alexia Calderón (2025), en el ámbito del comercio internacional, la ficha técnica se convierte en un documento fundamental, ya que garantiza el cumplimiento de las normas, certificaciones y requisitos legales exigidos en cada mercado. Además, proporciona a importadores y exportadores una comprensión detallada de las propiedades y especificaciones del producto, lo que agiliza los procesos comerciales y previene conflictos o interpretaciones erróneas.
 
     .row.justify-content-center.align-items-center.z-2
-      .col-sm-7.col-lg-6.col-xl-4.mb-4
+      .col-sm-8.col-lg-6.col-xl-4.mb-4
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -168,7 +168,7 @@
               li Permite demostrar al apego a regulaciones como <em>FDA</em> (EEUU), <em>CE</em> (Europa) o normas INVIMAS/ICA (Colombia).
               li Evita rechazos en aduanas por incumplimientos técnico.
 
-      .col-sm-7.col-lg-6.col-xl-4.mb-4
+      .col-sm-8.col-lg-6.col-xl-4.mb-4
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -180,7 +180,7 @@
               li Reduce tiempos de inspección y verificación en fronteras.
               li Disminuye costos operativos asociados a retrasos logísticos.
 
-      .col-sm-7.col-lg-6.col-xl-4.mb-4
+      .col-sm-8.col-lg-6.col-xl-4.mb-4
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -191,7 +191,7 @@
               li Minimiza disputas comerciales por diferencias en características del producto.
               li Protege tanto a compradores como vendedores al definir parámetros medibles.
 
-      .col-sm-7.col-lg-6.col-xl-4.mb-4.mb-xl-0
+      .col-sm-8.col-lg-6.col-xl-4.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -203,7 +203,7 @@
               li Permite acceder a preferencias arancelarias al probar origen y composición.
               li Facilita la homologación con estándares internacionales de calidad.
 
-      .col-sm-7.col-lg-6.col-xl-4.mb-4.mb-xl-0
+      .col-sm-8.col-lg-6.col-xl-4.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -215,7 +215,7 @@
               li Indica condiciones especiales de manejo (temperatura, humedad, etc.).
               li Precisa requisitos de embalaje y manipulación segura.
 
-      .col-sm-7.col-lg-6.col-xl-4.mb-4.mb-xl-0
+      .col-sm-8.col-lg-6.col-xl-4.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -246,8 +246,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
           span Fichas técnicas según régimen aduanero
-        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema1/11-mob.png', alt='Fichas técnicas según régimen aduanero')
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema1/11.png', alt='Fichas técnicas según régimen aduanero')
+        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema1/11-mob.png', alt='En la figura 2 se presentan los beneficios que se obtienen gracias al diligenciamiento de la ficha técnica de las mercancías.')
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema1/11.png', alt='En la figura 2 se presentan los beneficios que se obtienen gracias al diligenciamiento de la ficha técnica de las mercancías.')
         figcaption <strong>Fuente</strong>: SENA, 2025
 
     h4.world-title.my-5 Según la naturaleza de la mercancía
@@ -259,8 +259,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 3.
           span Fichas técnicas según naturaleza de la mercancía
-        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema1/12-mob.png', alt='Fichas técnicas según régimen aduanero')
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema1/12.png', alt='Fichas técnicas según régimen aduanero')
+        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema1/12-mob.png', alt='En la figura 3 se presentan los tipos de fichas técnicas de mercancías según el régimen aduanero.')
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema1/12.png', alt='En la figura 3 se presentan los tipos de fichas técnicas de mercancías según el régimen aduanero.')
         figcaption <strong>Fuente</strong>: SENA, 2025
 
     .tabla-d.color-acento-contenido.mb-2

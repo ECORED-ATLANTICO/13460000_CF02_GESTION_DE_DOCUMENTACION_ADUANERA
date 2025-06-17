@@ -7,12 +7,14 @@
         span 3
       h1 Sistemas de información aduanero
 
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-4.mb-lg-5
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-4.mb-lg-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Los Sistemas de Información Aduaneros (SIA) son herramientas tecnológicas creadas para supervisar, organizar y mejorar los procesos de comercio exterior. Su función es agilizar el movimiento de mercancías, garantizar el cumplimiento de las normativas y reforzar la seguridad en las operaciones aduaneras.
+
+    Separador
 
     .fullwidth-bg.fullwidth-bg--1
     #t_3_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
@@ -57,9 +59,11 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 8.
           span Características de los sistemas de información aduanero
-        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema3/3-mob.png', alt='Características de los sistemas de información aduanero')
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema3/3.png', alt='Características de los sistemas de información aduanero')
+        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema3/3-mob.png', alt='En la figura 8 se presentan las características de los sistemas de información aduanero.')
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema3/3.png', alt='En la figura 8 se presentan las características de los sistemas de información aduanero.')
         figcaption <strong>Fuente</strong>: SENA, 2025
+
+    Separador
 
     .fullwidth-bg.fullwidth-bg--1
     #t_3_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
@@ -140,7 +144,7 @@
 
     h4.world-title.my-5 SYGA
 
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-4.mb-lg-5
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-4.mb-lg-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/1.jpg')})`}"
       )
@@ -228,8 +232,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 9.
           span Principales trámites y servicios de la VUCE.
-        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema3/13-mob.png', alt='Características de los sistemas de información aduanero')
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema3/13.png', alt='Características de los sistemas de información aduanero')
+        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema3/13-mob.png', alt='En la figura 9 se presentan los principales trámites y servicios que se pueden realizar en la Ventanilla Única de Comercio Exterior (VUCE).')
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema3/13.png', alt='En la figura 9 se presentan los principales trámites y servicios que se pueden realizar en la Ventanilla Única de Comercio Exterior (VUCE).')
         figcaption <strong>Fuente</strong>: tomado y adoptado de trámites y servicios de la VUCE de Ventanilla Única de Comercio Exterior. https://www.vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce
 
     Separador
@@ -245,9 +249,11 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 10.
           span Técnicas de uso.
-        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema3/14-mob.png', alt='Características de los sistemas de información aduanero')
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema3/14.png', alt='Características de los sistemas de información aduanero')
+        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema3/14-mob.png', alt='En la figura 10 se presentan las principales técnicas de uso implementadas en los sistemas de información aduanero.')
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema3/14.png', alt='En la figura 10 se presentan las principales técnicas de uso implementadas en los sistemas de información aduanero.')
         figcaption <strong>Fuente</strong>: SENA, 2025
+
+    Separador
 
     .fullwidth-bg.fullwidth-bg--2
     #t_3_6(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
@@ -302,10 +308,10 @@
         p Para el caso de Colombia, el Sistema de Gestión Aduanera (SYGA) de la DIAN implementa:
         .rounded-4.py-3.px-4.bg-secundario-s5
           ul.checklist.mb-0
-            li Cifrado AES-256 en todas las transacciones.
-            li Autenticación biométrica para funcionarios.
-            li <em>Blockchain</em> para certificados de origen inviolables.
-            li Monitoreo 24/7 desde un SOC <em>(Security Operations Center)</em>.
+            li.py-0 Cifrado AES-256 en todas las transacciones.
+            li.py-0 Autenticación biométrica para funcionarios.
+            li.py-0 <em>Blockchain</em> para certificados de origen inviolables.
+            li.py-0 Monitoreo 24/7 desde un SOC <em>(Security Operations Center)</em>.
       .col-lg-6
         figure
           img(data-aos="fade-dowm")(src="@/assets/curso/temas/tema3/19.png", alt="Imagen decorativa")

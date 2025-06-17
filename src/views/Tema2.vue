@@ -27,8 +27,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 4.
           span Aspectos importantes en la gestión de información.
-        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema2/3-mob.png', alt='Fichas técnicas según régimen aduanero')
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema2/3.png', alt='Fichas técnicas según régimen aduanero')
+        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema2/3-mob.png', alt='En esta figura 4 se presentan los tipos de ficha técnica según la naturaleza de la mercancía.')
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema2/3.png', alt='En esta figura 4 se presentan los tipos de ficha técnica según la naturaleza de la mercancía.')
         figcaption <strong>Fuente</strong>. tomado y adaptado de Introducción a la gestión de la información y del conocimiento en la empresa, por Universidad Politécnica de Valencia, 2022. https://riunet.upv.es/bitstreams/e0125038-9086-42d8-954e-4401b3f5637e/download
 
     Separador
@@ -44,8 +44,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 5.
           span Características principales de la recopilación de información.
-        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema2/4-mob.png', alt='Fichas técnicas según régimen aduanero')
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema2/4.png', alt='Fichas técnicas según régimen aduanero')
+        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema2/4-mob.png', alt='En la figura 5 se presentan los aspectos importantes a tener en cuenta en la gestión de información.')
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema2/4.png', alt='En la figura 5 se presentan los aspectos importantes a tener en cuenta en la gestión de información.')
         figcaption <strong>Fuente</strong>. SENA, 2025
 
     p.mb-4.mb-lg-5 A continuación, se presentan las principales metodologías utilizadas en la recopilación de información:
@@ -111,8 +111,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 6.
           span Técnicas de diligenciamiento de registros
-        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema2/14-mob.png', alt='Fichas técnicas según régimen aduanero')
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema2/14.png', alt='Fichas técnicas según régimen aduanero')
+        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema2/14-mob.png', alt='En la figura 6 se presentan las técnicas más utilizadas para el diligenciamiento de registros.')
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema2/14.png', alt='En la figura 6 se presentan las técnicas más utilizadas para el diligenciamiento de registros.')
         figcaption <strong>Fuente</strong>. SENA, 2025
 
     p Se puede concluir que el diligenciamiento eficiente de registros no es solo cuestión de técnica, sino de integración con las mejores prácticas de la organización. Todo depende del contexto: en áreas como salud o finanzas, donde los datos son críticos, se exige un nivel de rigor más alto. Al final, el objetivo principal es siempre el mismo: garantizar información precisa, consistente y útil para la toma de decisiones.
@@ -194,8 +194,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 7.
           span  Principios para el manejo confidencial de información.
-        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema2/4-mob.png', alt='Fichas técnicas según régimen aduanero')
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema2/4.png', alt='Fichas técnicas según régimen aduanero')
+        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema2/13-mob.png', alt='Fichas técnicas según régimen aduanero')
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema2/13.png', alt='Fichas técnicas según régimen aduanero')
         figcaption <strong>Fuente</strong>. SENA, 2025
 
     .row.justify-content-center.align-items-center
