@@ -50,7 +50,7 @@
           span Etapas del comercio exterior
         img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema1/3-mob.png', alt='En la figura 1 se presentan los elementos claves de las fichas técnicas de mercancías. Identificación del producto, Composición y características técnicas, Datos del fabricante/proveedor, Clasificación arancelaria, Información de seguridad y regulaciones, Uso y manejo')
         img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema1/3.png', alt='En la figura 1 se presentan los elementos claves de las fichas técnicas de mercancías. Identificación del producto, Composición y características técnicas, Datos del fabricante/proveedor, Clasificación arancelaria, Información de seguridad y regulaciones, Uso y manejo')
-        figcaption <strong>Fuente</strong>: SENA, 2025
+        figcaption <strong>Fuente:</strong> SENA, 2025.
 
     .row.justify-content-center.align-items-center.z-2
       .col-6.col-lg-3
@@ -86,7 +86,7 @@
         
         .tabla-d.color-acento-contenido.mb-2
           table.documents-table
-            caption <strong>Fuente</strong>. Sena, 2025
+            caption <strong>Fuente:</strong> SENA, 2025.
             thead
               tr(style="background: #9FA3FF; color: #fff;")
                 th(colspan="2") Criterio (según)
@@ -98,7 +98,7 @@
                 td(colspan="3") Nombre comercial: aguacate Hass
                 td(colspan="3")(rowspan="4") Trazabilidad desde cultivo hasta exportación.
               tr
-                td(colspan="3") Nombre técnico: Persea americana var. Hass
+                td(colspan="3") Nombre técnico: <em>Persea americana</em> var. Hass
               tr
                 td(colspan="3") ELote: LOT-AG24-05
               tr
@@ -134,7 +134,7 @@
                 td(colspan="3") Certificado fitosanitario (ICA)
                 td(colspan="3")(rowspan="3") Garantiza calidad y cumplimiento de estándares.
               tr
-                td(colspan="3") Libre de plagas (Anastrepha spp.)
+                td(colspan="3") Libre de plagas (<em>Anastrepha spp.</em>)
               tr
                 td(colspan="3") Cumple FDA/UE
                 
@@ -153,7 +153,7 @@
     #t_1_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 1.3	Importancia
 
-    p.mb-4.mb-lg-5.z-2 Según Alexia Calderón (2025), en el ámbito del comercio internacional, la ficha técnica se convierte en un documento fundamental, ya que garantiza el cumplimiento de las normas, certificaciones y requisitos legales exigidos en cada mercado. Además, proporciona a importadores y exportadores una comprensión detallada de las propiedades y especificaciones del producto, lo que agiliza los procesos comerciales y previene conflictos o interpretaciones erróneas.
+    p.mb-4.mb-lg-5.z-2 Según Calderón (2025), en el ámbito del comercio internacional, la ficha técnica se convierte en un documento fundamental, ya que garantiza el cumplimiento de las normas, certificaciones y requisitos legales exigidos en cada mercado. Además, proporciona a importadores y exportadores una comprensión detallada de las propiedades y especificaciones del producto, lo que agiliza los procesos comerciales y previene conflictos o interpretaciones erróneas.
 
     .row.justify-content-center.align-items-center.z-2
       .col-sm-8.col-lg-6.col-xl-4.mb-4
@@ -165,7 +165,7 @@
             h5.text-center Cumplimiento regulatorio internacional
             ul.checklist
               li Funciona como documento acreditativo del cumplimiento de normativas sanitarias, de seguridad y calidad en diferentes mercados.
-              li Permite demostrar al apego a regulaciones como <em>FDA</em> (EEUU), <em>CE</em> (Europa) o normas INVIMAS/ICA (Colombia).
+              li Permite demostrar al apego a regulaciones como FDA (EE. UU.), CE (Europa) o normas INVIMAS/ICA (Colombia).
               li Evita rechazos en aduanas por incumplimientos técnico.
 
       .col-sm-8.col-lg-6.col-xl-4.mb-4
@@ -246,9 +246,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
           span Fichas técnicas según régimen aduanero
-        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema1/11-mob.png', alt='En la figura 2 se presentan los beneficios que se obtienen gracias al diligenciamiento de la ficha técnica de las mercancías. Cumplimiento regulatorio internacional • Funciona como documento acreditativo del cumplimiento de normativas sanitarias, de seguridad y calidad en diferentes mercados. • Permite demostrar el apego a regulaciones como FDA (EEUU), CE (Europa) o normas INVIMA/ICA (Colombia). • Evita rechazos en aduanas por incumplimiento técnico. Facilitación el comercio • Agiliza los procesos de despacho aduanero al contener toda la información requerida. • Reduce tiempos de inspección y verificación en fronteras. • Disminuye costos operativos asociados a retrasos logísticos. Herramienta contractual • Minimiza disputas comerciales por diferencias en características del producto. • Protege tanto a compradores como vendedores al definir parámetros medibles. Competitividad internacional Demuestra profesionalismo y capacidad técnica para mercados exigentes. Permite acceder a preferencias arancelarias al probar origen y composición. • Facilita la homologación con estándares internacionales de calidad Gestión logística optimizada • Proporciona información crítica para transporte y almacenamiento. • Indica condiciones especiales de manejo (temperatura, humedad, etc.). • Precisa requisitos de embalaje y manipulación segura. Trazabilidad integral • Permite seguimiento completo desde origen hasta destino final. • Facilita procesos de recall o retiro del mercado cuando es necesario. • Apoya la gestión de calidad en cadenas globales de suministro.')
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema1/11.png', alt='En la figura 2 se presentan los beneficios que se obtienen gracias al diligenciamiento de la ficha técnica de las mercancías. Cumplimiento regulatorio internacional • Funciona como documento acreditativo del cumplimiento de normativas sanitarias, de seguridad y calidad en diferentes mercados. • Permite demostrar el apego a regulaciones como FDA (EEUU), CE (Europa) o normas INVIMA/ICA (Colombia). • Evita rechazos en aduanas por incumplimiento técnico. Facilitación el comercio • Agiliza los procesos de despacho aduanero al contener toda la información requerida. • Reduce tiempos de inspección y verificación en fronteras. • Disminuye costos operativos asociados a retrasos logísticos. Herramienta contractual • Minimiza disputas comerciales por diferencias en características del producto. • Protege tanto a compradores como vendedores al definir parámetros medibles. Competitividad internacional Demuestra profesionalismo y capacidad técnica para mercados exigentes. Permite acceder a preferencias arancelarias al probar origen y composición. • Facilita la homologación con estándares internacionales de calidad Gestión logística optimizada • Proporciona información crítica para transporte y almacenamiento. • Indica condiciones especiales de manejo (temperatura, humedad, etc.). • Precisa requisitos de embalaje y manipulación segura. Trazabilidad integral • Permite seguimiento completo desde origen hasta destino final. • Facilita procesos de recall o retiro del mercado cuando es necesario. • Apoya la gestión de calidad en cadenas globales de suministro.')
-        figcaption <strong>Fuente</strong>: SENA, 2025
+        img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema1/11-mob.png', alt='En la figura 2 se presentan los beneficios que se obtienen gracias al diligenciamiento de la ficha técnica de las mercancías. Cumplimiento regulatorio internacional • Funciona como documento acreditativo del cumplimiento de normativas sanitarias, de seguridad y calidad en diferentes mercados. • Permite demostrar el apego a regulaciones como FDA (EE. UU.), CE (Europa) o normas INVIMA/ICA (Colombia). • Evita rechazos en aduanas por incumplimiento técnico. Facilitación el comercio • Agiliza los procesos de despacho aduanero al contener toda la información requerida. • Reduce tiempos de inspección y verificación en fronteras. • Disminuye costos operativos asociados a retrasos logísticos. Herramienta contractual • Minimiza disputas comerciales por diferencias en características del producto. • Protege tanto a compradores como vendedores al definir parámetros medibles. Competitividad internacional Demuestra profesionalismo y capacidad técnica para mercados exigentes. Permite acceder a preferencias arancelarias al probar origen y composición. • Facilita la homologación con estándares internacionales de calidad Gestión logística optimizada • Proporciona información crítica para transporte y almacenamiento. • Indica condiciones especiales de manejo (temperatura, humedad, etc.). • Precisa requisitos de embalaje y manipulación segura. Trazabilidad integral • Permite seguimiento completo desde origen hasta destino final. • Facilita procesos de recall o retiro del mercado cuando es necesario. • Apoya la gestión de calidad en cadenas globales de suministro.')
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema1/11.png', alt='En la figura 2 se presentan los beneficios que se obtienen gracias al diligenciamiento de la ficha técnica de las mercancías. Cumplimiento regulatorio internacional • Funciona como documento acreditativo del cumplimiento de normativas sanitarias, de seguridad y calidad en diferentes mercados. • Permite demostrar el apego a regulaciones como FDA (EE. UU.), CE (Europa) o normas INVIMA/ICA (Colombia). • Evita rechazos en aduanas por incumplimiento técnico. Facilitación el comercio • Agiliza los procesos de despacho aduanero al contener toda la información requerida. • Reduce tiempos de inspección y verificación en fronteras. • Disminuye costos operativos asociados a retrasos logísticos. Herramienta contractual • Minimiza disputas comerciales por diferencias en características del producto. • Protege tanto a compradores como vendedores al definir parámetros medibles. Competitividad internacional Demuestra profesionalismo y capacidad técnica para mercados exigentes. Permite acceder a preferencias arancelarias al probar origen y composición. • Facilita la homologación con estándares internacionales de calidad Gestión logística optimizada • Proporciona información crítica para transporte y almacenamiento. • Indica condiciones especiales de manejo (temperatura, humedad, etc.). • Precisa requisitos de embalaje y manipulación segura. Trazabilidad integral • Permite seguimiento completo desde origen hasta destino final. • Facilita procesos de recall o retiro del mercado cuando es necesario. • Apoya la gestión de calidad en cadenas globales de suministro.')
+        figcaption <strong>Fuente:</strong> SENA, 2025.
 
     h4.world-title.my-5 Según la naturaleza de la mercancía
 
@@ -261,7 +261,7 @@
           span Fichas técnicas según naturaleza de la mercancía
         img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema1/12-mob.png', alt='En la figura 3 se presentan los tipos de fichas técnicas de mercancías según el régimen aduanero. Peligrosas Incluye: hojas de seguridad (MSDS), clase de riesgo, embalaje especial y condiciones de transporte. Alimenticias y perecederas Registro sanitario, fecha de vencimiento y condiciones de conservación, certificado fitosanitario o zoosanitario. Medicamentos y productos farmacéuticos Registro sanitario, composición química y principio activo, condiciones especiales de almacenamiento. Con restricciones Permisos de autoridad ambiental (para especies protegidas), licencias de importación/exportación (ejemplo: armas, explosivos). Alta tecnología Certificaciones técnicas, manuales de uso y compatibilidad. Con derechos de propiedad intelectual Registro de marca o patente ante la Superintendencia de Industria y Comercio (SIC), autorización del titular para importación/exportación.')
         img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema1/12.png', alt='En la figura 3 se presentan los tipos de fichas técnicas de mercancías según el régimen aduanero. Peligrosas Incluye: hojas de seguridad (MSDS), clase de riesgo, embalaje especial y condiciones de transporte. Alimenticias y perecederas Registro sanitario, fecha de vencimiento y condiciones de conservación, certificado fitosanitario o zoosanitario. Medicamentos y productos farmacéuticos Registro sanitario, composición química y principio activo, condiciones especiales de almacenamiento. Con restricciones Permisos de autoridad ambiental (para especies protegidas), licencias de importación/exportación (ejemplo: armas, explosivos). Alta tecnología Certificaciones técnicas, manuales de uso y compatibilidad. Con derechos de propiedad intelectual Registro de marca o patente ante la Superintendencia de Industria y Comercio (SIC), autorización del titular para importación/exportación.')
-        figcaption <strong>Fuente</strong>: SENA, 2025
+        figcaption <strong>Fuente:</strong> SENA, 2025.
 
     .tabla-d.color-acento-contenido.mb-2
       .titulo-sexto.color-acento-contenido.mb-4
@@ -269,7 +269,7 @@
         span Ejemplo de ficha técnica
 
       table.documents-table
-        caption <strong>Fuente</strong>. Tomado de Internacionalmente, 2025
+        caption <strong>Fuente:</strong> Tomado de Internacionalmente, 2025.
         thead
           tr(style="background: #9FA3FF; color: #fff;")
             th(colspan="3") Presentación comercial

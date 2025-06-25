@@ -12,7 +12,7 @@
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10.col-xl-8
         div.banner-text-container
-          p.mb-0 Haisan Abdel Malak (2022) define la gestión de la información como el proceso de gestión del ciclo de vida completo de la información, desde su identificación y recopilación hasta su eliminación mediante el archivo o la eliminación. engloba todos los datos físicos y electrónicos recopilados por una empresa de sus clientes, empleados y proveedores.
+          p.mb-0 Según Abdel Malak (2022), define la gestión de la información como el proceso que abarca todo el ciclo de vida de la información, desde su identificación y recopilación hasta su archivo o eliminación. Incluye todos los datos, tanto físicos como electrónicos, que una empresa obtiene de sus clientes, empleados y proveedores.
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-lg-4
@@ -29,7 +29,7 @@
           span Aspectos importantes en la gestión de información.
         img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema2/3-mob.png', alt='En esta figura 4 se presentan los tipos de ficha técnica según la naturaleza de la mercancía. Gestión de información Tipos de fuentes de información. Flujo de la información. Necesidad de información y de su flujo. Ciclo de vida de la información. Habilidades de las personas en el manejo de la información. Cultura informacional’ de la empresa. Responsabilidad de los empleados en relación con la información.')
         img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema2/3.png', alt='En esta figura 4 se presentan los tipos de ficha técnica según la naturaleza de la mercancía. Gestión de información Tipos de fuentes de información. Flujo de la información. Necesidad de información y de su flujo. Ciclo de vida de la información. Habilidades de las personas en el manejo de la información. Cultura informacional’ de la empresa. Responsabilidad de los empleados en relación con la información.')
-        figcaption <strong>Fuente</strong>. tomado y adaptado de Introducción a la gestión de la información y del conocimiento en la empresa, por Universidad Politécnica de Valencia, 2022. https://riunet.upv.es/bitstreams/e0125038-9086-42d8-954e-4401b3f5637e/download
+        figcaption <strong>Fuente:</strong> Tomado y adaptado de <em>Introducción a la gestión de la información y del conocimiento en la empresa</em>, por Universidad Politécnica de Valencia, 2022. https://riunet.upv.es/bitstreams/e0125038-9086-42d8-954e-4401b3f5637e/download.
 
     Separador
 
@@ -46,7 +46,7 @@
           span Características principales de la recopilación de información.
         img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema2/4-mob.png', alt='En la figura 5 se presentan los aspectos importantes a tener en cuenta en la gestión de información. Recolección de datos: se obtiene información de fuentes como encuestas, entrevistas, bases de datos, documentos, internet, sensores, etc. Selección y filtrado: no toda la información es útil, por lo que se elige la más relevante según los objetivos. Organización: los datos se estructuran para facilitar su análisis (por ejemplo, en tablas, informes o sistemas digitales). Verificación: se valida la calidad y precisión de la información recopilada.')
         img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema2/4.png', alt='En la figura 5 se presentan los aspectos importantes a tener en cuenta en la gestión de información. Recolección de datos: se obtiene información de fuentes como encuestas, entrevistas, bases de datos, documentos, internet, sensores, etc. Selección y filtrado: no toda la información es útil, por lo que se elige la más relevante según los objetivos. Organización: los datos se estructuran para facilitar su análisis (por ejemplo, en tablas, informes o sistemas digitales). Verificación: se valida la calidad y precisión de la información recopilada.')
-        figcaption <strong>Fuente</strong>. SENA, 2025
+        figcaption <strong>Fuente:</strong> SENA, 2025.
 
     p.mb-4.mb-lg-5 A continuación, se presentan las principales metodologías utilizadas en la recopilación de información:
 
@@ -57,7 +57,7 @@
       
       .tabla-d.color-acento-contenido.mb-2
         table.documents-table
-          caption <strong>Fuente</strong>. Tomado de Internacionalmente, 2025
+          caption <strong>Fuente:</strong> Tomado de Internacionalmente, 2025.
           thead
             tr(style="background: #9FA3FF; color: #fff;")
               th(style="width: 25%;") Metodología
@@ -90,7 +90,7 @@
               td(style="width: 25%;") Entrevista grupal
             tr
               td(style="width: 25%;") Sensores y IOT
-              td(style="width: 50%;") Es la captura automática de datos mediante dispositivos físicos conectados a internet (sensores, wearables, cámaras inteligentes), que transmiten información en tiempo real.
+              td(style="width: 50%;") Es la captura automática de datos mediante dispositivos físicos conectados a internet (sensores, <em>wearables</em>, cámaras inteligentes), que transmiten información en tiempo real.
               td(style="width: 25%;") Captura automática de datos mediante dispositivos conectados.
 
     Separador
@@ -113,7 +113,7 @@
           span Técnicas de diligenciamiento de registros
         img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema2/14-mob.png', alt='En la figura 6 se presentan las técnicas más utilizadas para el diligenciamiento de registros. Validación de datos: consiste en aplicar reglas para asegurar que los datos ingresados cumplen con los criterios definidos. • Validación de formato: verifica que los datos sigan una estructura específica. • Validación de rango: confirma que los valores estén dentro de límites aceptables. • Validación de consistencia: asegura coherencia entre campos relacionados. Normalización de datos: busca homogeneizar la información para facilitar su procesamiento y análisis. • Unificar formatos de fecha. • Eliminar espacios extras, usar mayúsculas/minúsculas consistentes. • Usar estándares de normas. Uso de campos obligatorios: capturar datos tan pronto como se generan para evitar errores por demoras. • En formularios: campos marcados con asterisco (*) y bloqueo de envío si faltan datos. • En bases de datos: definir campos como NOT NULL en SQL. Registro en tiempo teal: garantiza que la información crítica no se omita. • Autoguardado: sistemas que guardan progresivamente. • Sincronización automática: apps móviles con conexión a bases de datos en la nube. Doble verificación: mecanismo para detectar y corregir errores antes de finalizar el registro. Manual: revisión por un segundo operador. • Automática: comparación con bases de datos existentes. Automatización y asistencia por IA: uso de tecnología para minimizar errores humanos. Autocompletado: sugerencias basadas en datos previos. • Procesamiento de lenguaje natural: extraer datos de textos no estructurados. • Validación con IA: detección de anomalías.')
         img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema2/14.png', alt='En la figura 6 se presentan las técnicas más utilizadas para el diligenciamiento de registros. Validación de datos: consiste en aplicar reglas para asegurar que los datos ingresados cumplen con los criterios definidos. • Validación de formato: verifica que los datos sigan una estructura específica. • Validación de rango: confirma que los valores estén dentro de límites aceptables. • Validación de consistencia: asegura coherencia entre campos relacionados. Normalización de datos: busca homogeneizar la información para facilitar su procesamiento y análisis. • Unificar formatos de fecha. • Eliminar espacios extras, usar mayúsculas/minúsculas consistentes. • Usar estándares de normas. Uso de campos obligatorios: capturar datos tan pronto como se generan para evitar errores por demoras. • En formularios: campos marcados con asterisco (*) y bloqueo de envío si faltan datos. • En bases de datos: definir campos como NOT NULL en SQL. Registro en tiempo teal: garantiza que la información crítica no se omita. • Autoguardado: sistemas que guardan progresivamente. • Sincronización automática: apps móviles con conexión a bases de datos en la nube. Doble verificación: mecanismo para detectar y corregir errores antes de finalizar el registro. Manual: revisión por un segundo operador. • Automática: comparación con bases de datos existentes. Automatización y asistencia por IA: uso de tecnología para minimizar errores humanos. Autocompletado: sugerencias basadas en datos previos. • Procesamiento de lenguaje natural: extraer datos de textos no estructurados. • Validación con IA: detección de anomalías.')
-        figcaption <strong>Fuente</strong>. SENA, 2025
+        figcaption <strong>Fuente:</strong> SENA, 2025.
 
     p Se puede concluir que el diligenciamiento eficiente de registros no es solo cuestión de técnica, sino de integración con las mejores prácticas de la organización. Todo depende del contexto: en áreas como salud o finanzas, donde los datos son críticos, se exige un nivel de rigor más alto. Al final, el objetivo principal es siempre el mismo: garantizar información precisa, consistente y útil para la toma de decisiones.
 
@@ -196,7 +196,7 @@
           span  Principios para el manejo confidencial de información.
         img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema2/13-mob.png', alt='Fichas técnicas según régimen aduanero Confidencialidad Garantizar que la información solo sea accesible para personas autorizadas. Implementar medidas de seguridad como cifrado, contraseñas y permisos de acceso. Integridad Asegurar que la información no sea alterada, modificada o eliminada de manera no autorizada. Utilizar métodos de verificación como firmas digitales y registros de auditoría. Disponibilidad Mantener la información accesible para los usuarios autorizados cuando sea necesaria. Implementar respaldos (backups) y planes de recuperación ante desastres. Legalidad Cumplir con las normativas aplicables. Obtener consentimiento informado para el manejo de datos personales. Responsabilidad y transparencia. Designar responsables del manejo de información confidencial. Informar a los usuarios sobre cómo se usa y protege su información. Minimización de datos. Recolectar y almacenar solo la información estrictamente necesaria. Evitar la retención excesiva de datos. Gestión de riesgos. Identificar posibles amenazas y vulnerabilidades. Implementar controles para mitigar riesgos')
         img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema2/13.png', alt='Fichas técnicas según régimen aduanero Confidencialidad Garantizar que la información solo sea accesible para personas autorizadas. Implementar medidas de seguridad como cifrado, contraseñas y permisos de acceso. Integridad Asegurar que la información no sea alterada, modificada o eliminada de manera no autorizada. Utilizar métodos de verificación como firmas digitales y registros de auditoría. Disponibilidad Mantener la información accesible para los usuarios autorizados cuando sea necesaria. Implementar respaldos (backups) y planes de recuperación ante desastres. Legalidad Cumplir con las normativas aplicables. Obtener consentimiento informado para el manejo de datos personales. Responsabilidad y transparencia. Designar responsables del manejo de información confidencial. Informar a los usuarios sobre cómo se usa y protege su información. Minimización de datos. Recolectar y almacenar solo la información estrictamente necesaria. Evitar la retención excesiva de datos. Gestión de riesgos. Identificar posibles amenazas y vulnerabilidades. Implementar controles para mitigar riesgos')
-        figcaption <strong>Fuente</strong>. SENA, 2025
+        figcaption <strong>Fuente:</strong> SENA, 2025.
 
     .row.justify-content-center.align-items-center
       .col-lg-8

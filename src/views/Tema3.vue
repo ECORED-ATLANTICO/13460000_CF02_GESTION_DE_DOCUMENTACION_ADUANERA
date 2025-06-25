@@ -35,7 +35,7 @@
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta acordion-documents")
           div(titulo="Facilitación del comercio internacional")
-            p.ms-lg-5.ps-lg-2 Incluye el nombre comercial y técnico del producto, códigos de referencia como SKU, serial o lote, y el modelo o versión si aplica. Estos datos permiten una trazabilidad precisa y facilitan la gestión logística. La claridad en la identificación evita confusiones en aduanas y garantiza que el producto cumpla con los registros requeridos por las autoridades.
+            p.ms-lg-5.ps-lg-2 Agiliza los trámites para importadores y exportadores, eliminando obstáculos burocráticos y ofreciendo una plataforma que facilita operaciones de manera rápida y sencilla. Esto contribuye a fortalecer la competitividad de las empresas en el mercado global y, al mismo tiempo, genera interés entre inversores que buscan oportunidades en el comercio exterior de otros países.
 
           div(titulo="Mejora continua y adaptabilidad")
             p.ms-lg-5.ps-lg-2 No se limita a su implementación inicial, sino que se transforma constantemente para ajustarse a las necesidades cambiantes del sector. Gracias a su capacidad de mejora continua y adaptación a nuevas tecnologías y regulaciones, mantiene su eficiencia y relevancia. Esta flexibilidad permite que los países sigan el ritmo de las tendencias globales y conserven su posición como un actor fundamental en el comercio exterior.
@@ -44,7 +44,7 @@
             p.ms-lg-5.ps-lg-2 Al optimizar los procesos, disminuye la dependencia del papel al reducir la documentación física, lo que contribuye a un menor impacto ambiental. Además, su eficiencia en la gestión del transporte de mercancías ayuda a disminuir las emisiones contaminantes, alineando las operaciones aduaneras con los objetivos internacionales de sostenibilidad y responsabilidad ecológica.
 
           div(titulo="Tendencias en desarrollo tecnológico")
-            p.ms-lg-5.ps-lg-2 El uso de inteligencia artificial, blockchain y análisis predictivo se está investigando para optimizar la seguridad y la eficiencia en la gestión aduanera. La integración de estas tecnologías puede aportar ventajas como una mayor transparencia en los procesos y una reducción aún más significativa en los tiempos de operación
+            p.ms-lg-5.ps-lg-2 El uso de inteligencia artificial, <em>blockchain</em> y análisis predictivo se está investigando para optimizar la seguridad y la eficiencia en la gestión aduanera. La integración de estas tecnologías puede aportar ventajas como una mayor transparencia en los procesos y una reducción aún más significativa en los tiempos de operación
 
     Separador
 
@@ -61,7 +61,7 @@
           span Características de los sistemas de información aduanero
         img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema3/3-mob.png', alt='En la figura 8 se presentan las características de los sistemas de información aduanero. Interoperabilidad Los sistemas de información aduanero tienen la habilidad de compartir información y operar en sincronía con otras plataformas, tanto dentro del país como a nivel global. Esta interconexión facilita la gestión eficiente del comercio internacional y el cumplimiento de normativas. Automatización Disminución de tareas manuales gracias al uso de tecnologías que optimizan los trámites y reducen la posibilidad de errores humanos. Seguridad Protección de datos sensibles contra accesos no autorizados, fraudes y ciberataques. Trazabilidad Historial estructurado y preciso de todas las transacciones aduaneras, permitiendo auditorías y verificaciones futuras con total transparencia. Escalabilidad Capacidad del sistema para adaptarse a crecimientos en el volumen de operaciones o cambios normativos.')
         img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema3/3.png', alt='En la figura 8 se presentan las características de los sistemas de información aduanero. Interoperabilidad Los sistemas de información aduanero tienen la habilidad de compartir información y operar en sincronía con otras plataformas, tanto dentro del país como a nivel global. Esta interconexión facilita la gestión eficiente del comercio internacional y el cumplimiento de normativas. Automatización Disminución de tareas manuales gracias al uso de tecnologías que optimizan los trámites y reducen la posibilidad de errores humanos. Seguridad Protección de datos sensibles contra accesos no autorizados, fraudes y ciberataques. Trazabilidad Historial estructurado y preciso de todas las transacciones aduaneras, permitiendo auditorías y verificaciones futuras con total transparencia. Escalabilidad Capacidad del sistema para adaptarse a crecimientos en el volumen de operaciones o cambios normativos.')
-        figcaption <strong>Fuente</strong>: SENA, 2025
+        figcaption <strong>Fuente:</strong> SENA, 2025.
 
     Separador
 
@@ -79,7 +79,7 @@
         
         .tabla-d.color-acento-contenido.mb-2
           table.documents-table
-            caption <strong>Fuente</strong>. Sena, 2025
+            caption <strong>Fuente:</strong> SENA, 2025.
             thead
               tr(style="background: #9FA3FF; color: #fff;")
                 th Tipo
@@ -91,12 +91,12 @@
                 td Sistemas nacionales: plataformas implementadas por la autoridad aduanera de un país.
                 td 
                   p SYGA (Colombia)
-                  p.mb-0 CBP (EEUU)
+                  p.mb-0 CBP (EE. UU.)
               tr
                 td Sistemas regionales: integran operaciones entre países de un bloque económico.
                 td 
                   p SYGA (Colombia)
-                  p.mb-0 CBP (EEUU)
+                  p.mb-0 CBP (EE. UU.)
               tr
                 td Sistemas globales: plataformas internacionales para estandarizar procesos.
                 td SAFE Framework (OMA)
@@ -215,7 +215,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-lg-9.mb-4.mb-lg-0
-        p.mb-4 De acuerdo con su portal, la Ventanilla Única de Comercio Exterior –VUCE– es la principal herramienta de Facilitación del Comercio del País, a través de la cual se canalizan trámites de comercio exterior de 62.000 usuarios vinculados a 20 entidades del Estado, coordinadas por el Ministerio de Comercio, Industria y Turismo, con el fin de intercambiar información, eliminar redundancia de procedimientos, implementar controles eficientes y promover actuaciones administrativas transparente.
+        p.mb-4 De acuerdo con su portal, la Ventanilla Única de Comercio Exterior –VUCE– es la principal herramienta de facilitación del comercio del país, a través de la cual se canalizan trámites de comercio exterior de 62.000 usuarios vinculados a 20 entidades del Estado, coordinadas por el Ministerio de Comercio, Industria y Turismo, con el fin de intercambiar información, eliminar redundancia de procedimientos, implementar controles eficientes y promover actuaciones administrativas transparente.
         .row.align-items-center
           .col-lg-3.d-none.d-xl-block
             figure
@@ -234,7 +234,7 @@
           span Principales trámites y servicios de la VUCE.
         img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema3/13-mob.png', alt='En la figura 9 se presentan los principales trámites y servicios que se pueden realizar en la Ventanilla Única de Comercio Exterior (VUCE). Módulo de importaciones Permite el trámite electrónico de los registros de importación de bienes que se encuentran sujetos al cumplimiento de requisitos, permisos o autorizaciones, previas a los procesos de importación, así como de las licencias de importación Módulo de exportaciones En cumplimiento de lo dispuesto en el Decreto 4149 de 2004, se realiza el trámite electrónico de solicitud y emisión de autorizaciones previas a la exportación, establecidas por las entidades nacionales competentes, o por solicitud de los países importadores, a través de la VUCE. Registro de productores de bienes nacionales La Resolución 331 de 2010 establece las disposiciones relacionadas, entre otras, con la presentación, evaluación y respuesta de la solicitud de registro de productores de bienes nacionales. Certificaciones de existencia de producción nacional El procedimiento de solicitud de certificaciones de existencia de producción nacional para maquinaria o equipo con destino a las industrias básicas, transformación de materias primas y medio ambiente, se realiza a través del aplicativo “Certificaciones de producción nacional”. Módulo Sistema de Inspección Simultánea – SIIS Es un módulo informático a través del cual los usuarios de comercio exterior pueden coordinar la logística de sus operaciones y las autoridades de control realizar simultáneamente, las inspecciones de las mercancías, gracias al agendamiento electrónico en tiempo real.')
         img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema3/13.png', alt='En la figura 9 se presentan los principales trámites y servicios que se pueden realizar en la Ventanilla Única de Comercio Exterior (VUCE). Módulo de importaciones Permite el trámite electrónico de los registros de importación de bienes que se encuentran sujetos al cumplimiento de requisitos, permisos o autorizaciones, previas a los procesos de importación, así como de las licencias de importación Módulo de exportaciones En cumplimiento de lo dispuesto en el Decreto 4149 de 2004, se realiza el trámite electrónico de solicitud y emisión de autorizaciones previas a la exportación, establecidas por las entidades nacionales competentes, o por solicitud de los países importadores, a través de la VUCE. Registro de productores de bienes nacionales La Resolución 331 de 2010 establece las disposiciones relacionadas, entre otras, con la presentación, evaluación y respuesta de la solicitud de registro de productores de bienes nacionales. Certificaciones de existencia de producción nacional El procedimiento de solicitud de certificaciones de existencia de producción nacional para maquinaria o equipo con destino a las industrias básicas, transformación de materias primas y medio ambiente, se realiza a través del aplicativo “Certificaciones de producción nacional”. Módulo Sistema de Inspección Simultánea – SIIS Es un módulo informático a través del cual los usuarios de comercio exterior pueden coordinar la logística de sus operaciones y las autoridades de control realizar simultáneamente, las inspecciones de las mercancías, gracias al agendamiento electrónico en tiempo real.')
-        figcaption <strong>Fuente</strong>: tomado y adoptado de trámites y servicios de la VUCE de Ventanilla Única de Comercio Exterior. https://www.vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce
+        figcaption <strong>Fuente:</strong> Tomado y adoptado de <em>trámites y servicios de la VUCE</em>, Ventanilla Única de Comercio Exterior. https://www.vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce.
 
     Separador
 
@@ -251,7 +251,7 @@
           span Técnicas de uso.
         img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema3/14-mob.png', alt='En la figura 10 se presentan las principales técnicas de uso implementadas en los sistemas de información aduanero. Automatización inteligente Procesamiento automatizado de declaraciones. Clasificación automatizada de mercancías. Gestión de riesgos Perfilamiento Predictivo. Análisis de Big Data. Interoperabilidad APIs estándarizadas. Blockchain para comercio transfronterizo. Facilitación comercial Despacho anticipado. Plataformas móviles. Inteligencia aduanera Sistemas de detección de anomalías. Dashboards predictivos.')
         img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema3/14.png', alt='En la figura 10 se presentan las principales técnicas de uso implementadas en los sistemas de información aduanero. Automatización inteligente Procesamiento automatizado de declaraciones. Clasificación automatizada de mercancías. Gestión de riesgos Perfilamiento Predictivo. Análisis de Big Data. Interoperabilidad APIs estándarizadas. Blockchain para comercio transfronterizo. Facilitación comercial Despacho anticipado. Plataformas móviles. Inteligencia aduanera Sistemas de detección de anomalías. Dashboards predictivos.')
-        figcaption <strong>Fuente</strong>: SENA, 2025
+        figcaption <strong>Fuente:</strong> SENA, 2025.
 
     Separador
 
