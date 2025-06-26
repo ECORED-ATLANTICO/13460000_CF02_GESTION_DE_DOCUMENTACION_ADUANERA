@@ -95,10 +95,10 @@
             tbody
               tr
                 td(colspan="2")(rowspan="4") Identificación
-                td(colspan="3") Nombre comercial: aguacate Hass
+                td(colspan="3") Nombre comercial: aguacate <em>Hass</em>
                 td(colspan="3")(rowspan="4") Trazabilidad desde cultivo hasta exportación.
               tr
-                td(colspan="3") Nombre técnico: <em>Persea americana</em> var. Hass
+                td(colspan="3") Nombre técnico: <em>Persea americana var. Hass</em>
               tr
                 td(colspan="3") ELote: LOT-AG24-05
               tr
@@ -120,7 +120,7 @@
               tr
                 td(colspan="3") País: Colombia
               tr
-                td(colspan="3") Certificaciones: Global G.A.P., Fair Trade
+                td(colspan="3") Certificaciones: <em>Global G.A.P., Fair Trade</em>
                 
               tr(style="background: #F4F5FF;")
                 td(colspan="2")(rowspan="2") Clasificación arancelaria

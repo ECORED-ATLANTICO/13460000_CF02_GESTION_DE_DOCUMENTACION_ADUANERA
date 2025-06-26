@@ -67,7 +67,7 @@
             tr
               td(style="width: 25%;") Encuestas y cuestionarios
               td(style="width: 50%;") Es un mecanismo de recolección popular que permite obtener datos directamente de los sujetos de interés. Para garantizar de forma correcta su diseño es necesario tener en cuenta las variables requeridas y formular preguntas que permitan cumplir los objetivos. 
-              td(style="width: 25%;") Formularios digitales (Google y Microsoft Forms, Typeform) o físicos.             
+              td(style="width: 25%;") Formularios digitales (<em>Google</em> y <em>Microsoft Forms, Typeform</em>) o físicos.             
             tr(style="background: #F4F5FF;")
               td(style="width: 25%;") Entrevistas
               td(style="width: 50%;") Son un tipo de herramienta que se realiza de manera individual, y consiste en la aplicación de un cuestionario que puede ser estructurado o no. Antes de aplicarse se debe definir las variables a identificar para obtener los datos adecuados.
@@ -86,8 +86,8 @@
               td(style="width: 25%;") Uso de IA y <em>machine learning.</em>            
             tr(style="background: #F4F5FF;")
               td(style="width: 25%;") <em>Web scraping</em>
-              td(style="width: 50%;") Técnica para extraer información automatizada de sitios web mediante bots o scripts, convirtiendo datos no estructurados en estructurados.
-              td(style="width: 25%;") Entrevista grupal
+              td(style="width: 50%;") Técnica para extraer información automatizada de sitios<em>web</em> mediante <em>bots</em> o <em>scripts</em>, convirtiendo datos no estructurados en estructurados.
+              td(style="width: 25%;") Automatización de recolección de páginas <em>web</em>
             tr
               td(style="width: 25%;") Sensores y IOT
               td(style="width: 50%;") Es la captura automática de datos mediante dispositivos físicos conectados a internet (sensores, <em>wearables</em>, cámaras inteligentes), que transmiten información en tiempo real.
@@ -148,19 +148,19 @@
                 img.mb-2(src='@/assets/curso/temas/tema2/8.svg' alt='Icon decarativo')
             h5.bg-acento-contenido.text-center.p-2 Plataformas de formularios digitales
             ul.checklist
-              li  Google Forms.
-              li Microsoft Forms.
-              li Jot Forms.
+              li <em>Google Forms.</em>
+              li <em>Microsoft Forms.</em>
+              li <em>Jot Forms.</em>
 
           .tarjeta.p-4.card-decoration.rounded-4.mx-2.my-3
             .row.justify-content-center.mb-3
               .col-5
                 img.mb-2(src='@/assets/curso/temas/tema2/9.svg' alt='Icon decarativo')
-            h5.bg-acento-contenido.text-center.p-2 <em>Software</em> ERP y CRM
+            h5.bg-acento-contenido.text-center.p-2 <em>Software ERP y CRM</em>
             ul.checklist
-              li  SAP.
-              li Salesforce.
-              li Odoo.
+              li <em>SAP.</em>
+              li <em>Salesforce.</em>
+              li <em>Odoo.</em>
 
           .tarjeta.p-4.card-decoration.rounded-4.mx-2.my-3
             .row.justify-content-center.mb-3
@@ -168,8 +168,8 @@
                 img.mb-2(src='@/assets/curso/temas/tema2/10.svg' alt='Icon decarativo')
             h5.bg-acento-contenido.text-center.p-2 Aplicaciones móviles de recolección
             ul.checklist
-              li KoboToolbox.
-              li Fulcrum.
+              li <em>KoboToolbox.</em>
+              li <em>Fulcrum.</em>
 
 
     Separador
