@@ -580,7 +580,7 @@ export default {
         {
           id: 18,
           texto:
-            'Para un aguacate Hass, ¿qué dato es relevante en su ficha técnica?',
+            'Para un aguacate <em>Hass</em>, ¿qué dato es relevante en su ficha técnica?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
