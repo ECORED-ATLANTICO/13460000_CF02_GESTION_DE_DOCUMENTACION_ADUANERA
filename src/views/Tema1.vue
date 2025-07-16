@@ -145,7 +145,7 @@
               tr(style="background: #F4F5FF;")
                 td(colspan="3") Vida útil: 30 días postcosecha
               tr(style="background: #F4F5FF;")
-                td(colspan="3") Transporte: Refrigerado (4 °C)
+                td(colspan="3") Transporte: refrigerado (4 °C)
 
     Separador
 

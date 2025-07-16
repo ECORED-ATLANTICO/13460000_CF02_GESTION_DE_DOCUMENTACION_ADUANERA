@@ -86,7 +86,7 @@
               td(style="width: 25%;") Uso de IA y <em>machine learning.</em>            
             tr(style="background: #F4F5FF;")
               td(style="width: 25%;") <em>Web scraping</em>
-              td(style="width: 50%;") Técnica para extraer información automatizada de sitios<em>web</em> mediante <em>bots</em> o <em>scripts</em>, convirtiendo datos no estructurados en estructurados.
+              td(style="width: 50%;") Técnica para extraer información automatizada de sitios <em>web</em> mediante <em>bots</em> o <em>scripts</em>, convirtiendo datos no estructurados en estructurados.
               td(style="width: 25%;") Automatización de recolección de páginas <em>web</em>
             tr
               td(style="width: 25%;") Sensores y IOT
