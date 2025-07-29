@@ -12,14 +12,14 @@
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10.col-xl-8
         div.banner-text-container
-          p.mb-0 Según Abdel Malak (2022), define la gestión de la información como el proceso que abarca todo el ciclo de vida de la información, desde su identificación y recopilación hasta su archivo o eliminación. Incluye todos los datos, tanto físicos como electrónicos, que una empresa obtiene de sus clientes, empleados y proveedores.
+          p.mb-0 Haisan Abdel Malak (2022) define la gestión de la información como el proceso que abarca todo el ciclo de vida de la información, desde su identificación y recopilación hasta su archivo o eliminación. Incluye todos los datos, tanto físicos como electrónicos, que una empresa obtiene de sus clientes, empleados y proveedores.
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-up")(src="@/assets/curso/temas/tema2/2.png", alt="Imagen decorativa")
       .col-lg-6
-        p Imaginemos que la información es como un tesoro. Pero, ¿de qué sirve tener un montón de tesoros si no sabes cuáles son valiosos, cómo encontrarlos o cómo usarlos? Ahí es donde entra la gestión de la información, que es como tener un mapa y una brújula para navegar por ese tesoro.
+        p Imaginemos que la información es como un tesoro. Pero, ¿de qué sirve tener un montón de tesoros si no sabes cuáles son valiosos, ¿cómo encontrarlos o cómo usarlos? Ahí es donde entra la gestión de la información, que es como tener un mapa y una brújula para navegar por ese tesoro.
         p.mb-0 Así, la gestión de la información se convierte en un activo valioso para las empresas, una herramienta que permite tomar decisiones acertadas, anticiparse a los cambios y aprovechar las oportunidades. No es solo un medio para alcanzar el conocimiento, sino un camino en sí mismo hacia el éxito.
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
@@ -87,7 +87,7 @@
             tr(style="background: #F4F5FF;")
               td(style="width: 25%;") <em>Web scraping</em>
               td(style="width: 50%;") Técnica para extraer información automatizada de sitios <em>web</em> mediante <em>bots</em> o <em>scripts</em>, convirtiendo datos no estructurados en estructurados.
-              td(style="width: 25%;") Automatización de recolección de páginas <em>web</em>
+              td(style="width: 25%;") Automatización de recolección de datos desde páginas <em>web</em>.
             tr
               td(style="width: 25%;") Sensores y IOT
               td(style="width: 50%;") Es la captura automática de datos mediante dispositivos físicos conectados a internet (sensores, <em>wearables</em>, cámaras inteligentes), que transmiten información en tiempo real.

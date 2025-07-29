@@ -44,7 +44,7 @@
             p.ms-lg-5.ps-lg-2 Al optimizar los procesos, disminuye la dependencia del papel al reducir la documentación física, lo que contribuye a un menor impacto ambiental. Además, su eficiencia en la gestión del transporte de mercancías ayuda a disminuir las emisiones contaminantes, alineando las operaciones aduaneras con los objetivos internacionales de sostenibilidad y responsabilidad ecológica.
 
           div(titulo="Tendencias en desarrollo tecnológico")
-            p.ms-lg-5.ps-lg-2 El uso de inteligencia artificial, <em>blockchain</em> y análisis predictivo se está investigando para optimizar la seguridad y la eficiencia en la gestión aduanera. La integración de estas tecnologías puede aportar ventajas como una mayor transparencia en los procesos y una reducción aún más significativa en los tiempos de operación
+            p.ms-lg-5.ps-lg-2 El uso de inteligencia artificial, <em>blockchain</em> y análisis predictivo se está investigando para optimizar la seguridad y la eficiencia en la gestión aduanera. La integración de estas tecnologías puede aportar ventajas como una mayor transparencia en los procesos y una reducción aún más significativa en los tiempos de operación.
 
     Separador
 
@@ -95,29 +95,28 @@
               tr
                 td Sistemas regionales: integran operaciones entre países de un bloque económico.
                 td 
-                  p SYGA (Colombia)
-                  p.mb-0 CBP (EE. UU.)
+                  p.mb-0 SIDUNEA (América Latina)
               tr
                 td Sistemas globales: plataformas internacionales para estandarizar procesos.
                 td SAFE Framework (OMA)
               tr(style="background: #F4F5FF;")
                 td(rowspan="3") <strong>Función principal</strong>
-                td Sistemas globales: plataformas internacionales para estandarizar procesos.
-                td Garantiza calidad y cumplimiento de estándares.
+                td Sistemas de declaración: gestionar presentación de manifiestos y declaraciones.
+                td Validación automática. Cálculo de impuestos.
               tr(style="background: #F4F5FF;")
                 td Sistemas de control: fiscalizar el movimiento de mercancías.
                 td 
-                  p Perfilamiento de riesgo. 
+                  p.mb-0 Perfilamiento de riesgo. 
                   p.mb-0 Selectividad automatizada.
               tr(style="background: #F4F5FF;")
                 td Sistemas de facilitación: agilizar comercio para operadores calificados.
                 td 
-                  p Canales rápidos.
+                  p.mb-0 Canales rápidos.
                   p.mb-0 Despacho anticipado.
               tr
                 td(rowspan="3") <strong>Tipo de usuario</strong>
                 td Sistemas gubernamentales: autoridades aduaneras.
-                td SYGA (Colombia)
+                td SYGA (Perú)
               tr
                 td Sistemas corporativos: empresas privadas.
                 td <em>Oracle Trade Management</em>
@@ -151,6 +150,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 El Sistema de Información y Gestión Aduanera (SYGA) es una herramienta tecnológica desarrollada por la Dirección de Impuestos y Aduanas Nacionales (DIAN) de Colombia con el propósito de modernizar y mejorar la eficiencia en los procesos de control aduanero. SYGA tiene como objetivo automatizar todo el proceso de gestión aduanera, incorporando módulos para supervisión, auditoría y optimización del comercio. Además, adopta estándares internacionales establecidos por la Organización Mundial de Aduanas (OMA) para garantizar eficiencia y cumplimiento normativo.
 
+    h5.z-2 Trámites del SYGA.
     .fullwidth-bg.fullwidth-bg--4
     .row.justify-content-center.align-items-center.factores-slider.z-2.mb-4.mb-lg-5
       .col-sm-8.col-lg-4.d-none.d-xl-block

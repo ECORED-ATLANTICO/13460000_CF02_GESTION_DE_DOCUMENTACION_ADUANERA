@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Comercio exterior
+      h1 Fichas técnicas de mercancías
     
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-4.mb-lg-5
       .bloque-texto-g__img(
@@ -40,14 +40,15 @@
     #t_1_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 1.2	Elementos
 
-    p.z-2 La ficha técnica de mercancías, conforme a la Dirección de Impuestos y Aduanas Nacionales (DIAN) de Colombia, es un documento detallado que describe las características físicas, técnicas, químicas y/o comerciales de un producto, necesario para su correcta clasificación arancelaria, valoración aduanera y verificación del cumplimiento de requisitos legales en operaciones de importación y exportación.
-    p.mb-4.mb-lg-5.z-2 Además de ser el documento de identificación del producto en operaciones de comercio exterior, la ficha técnica cumple funciones estratégicas clave:
+    p.z-2 Los elementos de la ficha técnica de mercancías son el conjunto de datos obligatorios y estandarizados que deben documentarse para caracterizar un producto en operaciones de comercio exterior.
+
+    p.mb-4.mb-lg-5.z-2 A continuación, describiremos los elementos claves que forman parte de la ficha técnica de las mercancías.
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10.col-lg-12.col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
-          span Etapas del comercio exterior
+          span Elementos claves.
         img.mb-2.d-lg-none(data-aos="fade-up")(src='@/assets/curso/temas/tema1/3-mob.png', alt='En la figura 1 se presentan los elementos claves de las fichas técnicas de mercancías. Identificación del producto, Composición y características técnicas, Datos del fabricante/proveedor, Clasificación arancelaria, Información de seguridad y regulaciones, Uso y manejo')
         img.mb-2.d-none.d-lg-block(data-aos="fade-up")(src='@/assets/curso/temas/tema1/3.png', alt='En la figura 1 se presentan los elementos claves de las fichas técnicas de mercancías. Identificación del producto, Composición y características técnicas, Datos del fabricante/proveedor, Clasificación arancelaria, Información de seguridad y regulaciones, Uso y manejo')
         figcaption <strong>Fuente:</strong> SENA, 2025.
@@ -65,7 +66,7 @@
             p.ms-lg-5.ps-lg-2 Detalla los materiales o componentes con sus porcentajes, propiedades físicas y químicas (peso, dimensiones, pureza), y especificaciones técnicas según normas como ISO, INVIMA o ICONTEC. Esta información es vital para verificar la calidad del producto y su cumplimiento con regulaciones técnicas y sanitarias, asegurando su adecuado manejo y comercialización.
 
           div(titulo="Datos del fabricante/proveedor")
-            p.ms-lg-5.ps-lg-2 Contiene la razón social y el país de origen del fabricante o proveedor, junto con sus certificaciones de producción. Estos datos son esenciales para validar la legitimidad del producto y su procedencia, además de respaldar su calidad mediante certificaciones reconocidas internacionalmente o por entidades locales como INVIMA o ANLA
+            p.ms-lg-5.ps-lg-2 Contiene la razón social y el país de origen del fabricante o proveedor, junto con sus certificaciones de producción. Estos datos son esenciales para validar la legitimidad del producto y su procedencia, además de respaldar su calidad mediante certificaciones reconocidas internacionalmente o por entidades locales como INVIMA o ANLA.
 
           div(titulo="Clasificación arancelaria")
             p.ms-lg-5.ps-lg-2 Especifica la subpartida TARIC/NANDINA y los tratados de libre comercio aplicables. Esta clasificación determina los aranceles e impuestos, facilitando el despacho aduanero. Una correcta identificación arancelaria optimiza costos y evita sanciones por errores en la declaración, asegurando el cumplimiento de normativas internacionales y locales.
@@ -89,9 +90,9 @@
             caption <strong>Fuente:</strong> SENA, 2025.
             thead
               tr(style="background: #9FA3FF; color: #fff;")
-                th(colspan="2") Criterio (según)
-                th(colspan="3") Clasificación
-                th(colspan="3") Ejemplo
+                th(colspan="2") Elemento clave
+                th(colspan="3") Descripción
+                th(colspan="3") Relevancia
             tbody
               tr
                 td(colspan="2")(rowspan="4") Identificación
@@ -100,7 +101,7 @@
               tr
                 td(colspan="3") Nombre técnico: <em>Persea americana var. Hass</em>
               tr
-                td(colspan="3") ELote: LOT-AG24-05
+                td(colspan="3") Lote: LOT-AG24-05
               tr
                 td(colspan="3") SKU: AVO-HASS-001
                 
@@ -116,7 +117,7 @@
               tr
                 td(colspan="2")(rowspan="3") Fabricante/proveedor
                 td(colspan="3") Razón social: AgroFruta S.A.
-                td(colspan="3")(rowspan="3") Garantiza calidad y cumplimiento de estándares.
+                td(colspan="3")(rowspan="3") Valida origen legal y prácticas sostenibles.
               tr
                 td(colspan="3") País: Colombia
               tr
@@ -125,14 +126,14 @@
               tr(style="background: #F4F5FF;")
                 td(colspan="2")(rowspan="2") Clasificación arancelaria
                 td(colspan="3") Subpartida: 0804.40.00 (NANDINA)
-                td(colspan="3")(rowspan="2") Garantiza calidad y cumplimiento de estándares.
+                td(colspan="3")(rowspan="2") Reduce aranceles y agiliza despacho aduanero.
               tr(style="background: #F4F5FF;")
                 td(colspan="3") TLC aplicable: Acuerdo Colombia-UE
 
               tr
                 td(colspan="2")(rowspan="3") Seguridad y regulaciones
                 td(colspan="3") Certificado fitosanitario (ICA)
-                td(colspan="3")(rowspan="3") Garantiza calidad y cumplimiento de estándares.
+                td(colspan="3")(rowspan="3") Evita rechazos en aduanas por requisitos sanitarios.
               tr
                 td(colspan="3") Libre de plagas (<em>Anastrepha spp.</em>)
               tr
@@ -141,7 +142,7 @@
               tr(style="background: #F4F5FF;")
                 td(colspan="2")(rowspan="3") Uso y manejo
                 td(colspan="3") Almacenamiento: 12-15 °C, humedad 85-90 %
-                td(colspan="3")(rowspan="3") Garantiza calidad y cumplimiento de estándares.
+                td(colspan="3")(rowspan="3") Preserva frescura y calidad hasta el consumidor.
               tr(style="background: #F4F5FF;")
                 td(colspan="3") Vida útil: 30 días postcosecha
               tr(style="background: #F4F5FF;")
@@ -153,7 +154,9 @@
     #t_1_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 1.3	Importancia
 
-    p.mb-4.mb-lg-5.z-2 Según Calderón (2025), en el ámbito del comercio internacional, la ficha técnica se convierte en un documento fundamental, ya que garantiza el cumplimiento de las normas, certificaciones y requisitos legales exigidos en cada mercado. Además, proporciona a importadores y exportadores una comprensión detallada de las propiedades y especificaciones del producto, lo que agiliza los procesos comerciales y previene conflictos o interpretaciones erróneas.
+    p.z-2 Según Alexia Calderón (2025), en el ámbito del comercio internacional, la ficha técnica se convierte en un documento fundamental, ya que garantiza el cumplimiento de las normas, certificaciones y requisitos legales exigidos en cada mercado. Además, proporciona a importadores y exportadores una comprensión detallada de las propiedades y especificaciones del producto, lo que agiliza los procesos comerciales y previene conflictos o interpretaciones erróneas.
+
+    h5.mb-4.mb-lg-5.z-2 Beneficios de la ficha técnica de mercancías
 
     .row.justify-content-center.align-items-center.z-2
       .col-sm-8.col-lg-6.col-xl-4.mb-4
