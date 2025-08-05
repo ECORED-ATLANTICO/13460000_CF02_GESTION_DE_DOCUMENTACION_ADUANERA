@@ -57,7 +57,7 @@
       
       .tabla-d.color-acento-contenido.mb-2
         table.documents-table
-          caption <strong>Fuente:</strong> Tomado de Internacionalmente, 2025.
+          caption <strong>Fuente:</strong> SENA, 2025.
           thead
             tr(style="background: #9FA3FF; color: #fff;")
               th(style="width: 25%;") Metodología
